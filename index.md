@@ -28,7 +28,7 @@
 </head>
 <body>
 
-<h2>Two Unequal Columns</h2>
+<h2>Daniele Girardi</h2>
 
 <div class="row">
   <div class="column left" >
@@ -36,23 +36,6 @@
     <p>Some text..</p>
   </div>
   <div class="column right" >
-    <h2>Column 2</h2>
-    <p>Some text..</p>
-  </div>
-</div>
-
-</body>
-</html>
-
-
-
-<img class="wp-image-1072 alignleft" src="http://www.reconomics.it/wp-content/uploads/2018/10/foto_cv.png" alt="" width="175" />
-My research focuses mainly on macroeconomics and political economy. Most of my work can be traced back to two main research projects. The first studies the effect of institutional/political factors on financial and macroeconomic outcomes (<a style="color: #454545;" href="https://www.umass.edu/economics/publications/2018-08.pdf" target="_blank" rel="noopener">across countries</a><span style="font-size: 1rem;"> and </span><a style="color: #454545;" href="https://doi.org/10.1016/j.jdeveco.2018.04.005" target="_blank" rel="noopener">in specific cases</a><span style="font-size: 1rem;">). The second investigates </span><a style="color: #454545;" href="https://www.ineteconomics.org/uploads/papers/WP_70-Stirati-Demand-Expansion.pdf" target="_blank" rel="noopener">long-run effects of aggregate demand dynamics</a><span style="font-size: 1rem;">.</span>
-
-I currently work as an Assistant Professor of Economics at the University of Massachusetts Amherst.
-
-<a href="http://www.reconomics.it/wp-content/uploads/2019/11/CV-Daniele-Girardi.pdf" target="_blank" rel="noopener">Curriculum vitae</a>
-<h1><strong style="font-size: 1.5rem;">
 Publications:</strong></h1>
 <ul style="list-style-type: disc;">
  	<li>"Partisan shocks and financial markets: evidence from close national elections", <em>American Economic Journal: Applied Economics</em>, in press (<a style="color: #454545;" href="https://www.aeaweb.org/articles?id=10.1257/app.20190292&amp;&amp;from=f" target="_blank" rel="noopener">Paper</a> - <a style="color: #454545;" href="https://umass.box.com/v/slidespoliticalshocks" target="_blank" rel="noopener">Slides</a> - <a style="color: #454545;" href="https://doi.org/10.7910/DVN/FHCCWY" target="_blank" rel="noopener">Presidential elections dataset</a> - <a style="color: #454545;" href="https://www.openicpsr.org/openicpsr/workspace?goToPath=/openicpsr/115008&amp;goToLevel=project" target="_blank" rel="noopener">Replication files</a> )</li>
@@ -92,3 +75,19 @@ Publications:</strong></h1>
 <ul style="list-style-type: disc;">
  	<li><a style="color: #454545;" href="http://www.reconomics.it/italys-institutional-crisis-the-euro-and-the-left/" target="_blank" rel="noopener">Italy's institutional crisis, the Euro and the Left</a> (May 29, 2018)</li>
 </ul>
+
+  </div>
+</div>
+
+</body>
+</html>
+
+
+
+<img class="wp-image-1072 alignleft" src="http://www.reconomics.it/wp-content/uploads/2018/10/foto_cv.png" alt="" width="175" />
+My research focuses mainly on macroeconomics and political economy. Most of my work can be traced back to two main research projects. The first studies the effect of institutional/political factors on financial and macroeconomic outcomes (<a style="color: #454545;" href="https://www.umass.edu/economics/publications/2018-08.pdf" target="_blank" rel="noopener">across countries</a><span style="font-size: 1rem;"> and </span><a style="color: #454545;" href="https://doi.org/10.1016/j.jdeveco.2018.04.005" target="_blank" rel="noopener">in specific cases</a><span style="font-size: 1rem;">). The second investigates </span><a style="color: #454545;" href="https://www.ineteconomics.org/uploads/papers/WP_70-Stirati-Demand-Expansion.pdf" target="_blank" rel="noopener">long-run effects of aggregate demand dynamics</a><span style="font-size: 1rem;">.</span>
+
+I currently work as an Assistant Professor of Economics at the University of Massachusetts Amherst.
+
+<a href="http://www.reconomics.it/wp-content/uploads/2019/11/CV-Daniele-Girardi.pdf" target="_blank" rel="noopener">Curriculum vitae</a>
+<h1><strong style="font-size: 1.5rem;">
