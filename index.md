@@ -2,3 +2,44 @@
 
 I currently work as an Assistant Professor of Economics at the University of Massachusetts Amherst.
 
+<a href="http://www.reconomics.it/wp-content/uploads/2019/11/CV-Daniele-Girardi.pdf" target="_blank" rel="noopener">Curriculum vitae</a>
+<h1><strong style="font-size: 1.5rem;">
+Publications:</strong></h1>
+<ul style="list-style-type: disc;">
+ 	<li>"Partisan shocks and financial markets: evidence from close national elections", <em>American Economic Journal: Applied Economics</em>, in press (<a style="color: #454545;" href="https://www.aeaweb.org/articles?id=10.1257/app.20190292&amp;&amp;from=f" target="_blank" rel="noopener">Paper</a> - <a style="color: #454545;" href="https://umass.box.com/v/slidespoliticalshocks" target="_blank" rel="noopener">Slides</a> - <a style="color: #454545;" href="https://doi.org/10.7910/DVN/FHCCWY" target="_blank" rel="noopener">Presidential elections dataset</a> - <a style="color: #454545;" href="https://www.openicpsr.org/openicpsr/workspace?goToPath=/openicpsr/115008&amp;goToLevel=project" target="_blank" rel="noopener">Replication files</a> )</li>
+</ul>
+<ul style="list-style-type: disc;">
+ 	<li>"Institution shocks and economic outcomes: Allende's election, Pinochet's coup and the Santiago stock market" (with Samuel Bowles) , <em>Journal of Development Economics</em>, vol.134, pp. 16-27, 2018 (<a style="color: #454545;" href="http://tuvalu.santafe.edu/~bowles/2018%20(JDE)%20Chile.pdf" target="_blank" rel="noopener">Paper</a> - <a style="color: #454545;" href="https://umass.box.com/v/chilepaperslides" target="_blank" rel="noopener">Slides</a> - <a style="color: #454545;" href="https://umass.box.com/v/institution-shocks-repl" target="_blank" rel="noopener">Replication files</a> )</li>
+</ul>
+<ul style="list-style-type: disc;">
+ 	<li>"Normal Utilization as the Adjusting Variable in Neo-Kaleckian Growth Models: A Critique" (with Riccardo Pariboni), <em>Metroeconomica</em>, vol.70, n.2, pp.341-358, 2019 (<a style="color: #454545;" href="https://umass.box.com/v/utilizationpaper" target="_blank" rel="noopener">Paper</a>)</li>
+</ul>
+<ul style="list-style-type: disc;">
+ 	<li>"Financialization of Food. Modelling the time-varying relation between agricultural prices and stock-market dynamics", <em>International Review of Applied Economics</em>,  vol.29, n.4, pp.482-505, 2015 (<a style="color: #454545;" href="https://umass.box.com/v/financialization-of-food" target="_blank" rel="noopener">Paper</a>)</li>
+</ul>
+<ul style="list-style-type: disc;">
+ 	<li>"Long-run effective demand in the US economy", <em>Review of Political Economy</em>,  Vol.28, n.4, pp.523-544, 2016 (<a style="color: #454545;" href="http://dx.doi.org/10.1080/09538259.2016.1209893" target="_blank" rel="noopener">Paper</a>)</li>
+</ul>
+<ul style="list-style-type: disc;">
+ 	<li>"Do financial investors affect the price of wheat?", <em>PSL Quarterly Review</em>,  Vol. 65 No. 260, pp.79-109, 2012 (<a style="color: #454545;" href="https://ojs.uniroma1.it/index.php/PSLQuarterlyReview/article/view/9936" target="_blank" rel="noopener">Paper</a>)</li>
+</ul>
+<h1><strong>Work in progress:</strong></h1>
+<ul style="list-style-type: disc;">
+ 	<li>"Partisanship and Local Fiscal Policy: Evidence from Brazilian Cities", UMass Amherst Economics Working Papers n.2019-06, April 2019 (<a style="color: #454545;" href="https://www.umass.edu/economics/publications/2019-06.pdf" target="_blank" rel="noopener">Paper</a>)</li>
+</ul>
+<ul style="list-style-type: disc;">
+ 	<li>"Autonomous demand and the investment share" (with Riccardo Pariboni) (<a style="color: #454545;" href="https://umass.box.com/v/autonomousdemand" target="_blank" rel="noopener">Paper</a>)</li>
+</ul>
+<ul style="list-style-type: disc;">
+ 	<li>"Reverse hysteresis? Persistent effects of autonomous demand expansions" (with Walter Paternesi Meloni and Antonella Stirati), INET Working Paper n.70, Feb 2018 (<a style="color: #454545;" href="https://www.ineteconomics.org/uploads/papers/WP_70-Stirati-Demand-Expansion.pdf" target="_blank" rel="noopener">Paper</a>)</li>
+</ul>
+<ul style="list-style-type: disc;">
+ 	<li>"Does economics make you selfish?" (with Sai Madhurika Mamunuru, Samuel Bowles and Simon Halliday)</li>
+</ul>
+<ul style="list-style-type: disc;">
+ 	<li>"Old and new formulations of the neoclassical theory of aggregate investment: a critical review", UMass Amherst Economics Working Paper 2017-03, Feb 2017 (<a style="color: #454545;" href="https://scholarworks.umass.edu/cgi/viewcontent.cgi?article=1220&amp;context=econ_workingpaper" target="_blank" rel="noopener">Paper</a> - <a style="color: #454545;" href="https://umass.box.com/v/storep2017slides" target="_blank" rel="noopener">Slides</a>)</li>
+</ul>
+<h1>Blog posts (in English):</h1>
+<ul style="list-style-type: disc;">
+ 	<li><a style="color: #454545;" href="http://www.reconomics.it/italys-institutional-crisis-the-euro-and-the-left/" target="_blank" rel="noopener">Italy's institutional crisis, the Euro and the Left</a> (May 29, 2018)</li>
+</ul>
