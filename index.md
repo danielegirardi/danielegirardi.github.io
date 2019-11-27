@@ -1,5 +1,3 @@
-<!DOCTYPE html>
-<html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
@@ -7,7 +5,6 @@
   box-sizing: border-box;
 }
 
-/* Create two unequal columns that floats next to each other */
 .column {
   float: left;
   padding: 10px;
@@ -22,7 +19,6 @@
   width: 75%;
 }
 
-/* Clear floats after the columns */
 .row:after {
   content: "";
   display: table;
