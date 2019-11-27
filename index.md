@@ -1,6 +1,8 @@
-Daniele Girardi 
+<h1><strong style="font-size: 1.5rem;">
+Daniele Girardi </strong></h1>
+<ul style="list-style-type: disc;">
 
-Assistant Professor of Economics
+Assistant Professor of Economics <br>
 University of Massachusetts Amherst
 
 
