@@ -4,7 +4,7 @@ title: Datasets
 permalink: /datasets/
 ---
 
-This page links to original (newly-collected) datasets that I built and used in my research. They are publicly available and can be used for research purposes at the condition of citing the source. If you are looking for replication packages for some of my papers, see the list of publications in the home page instead.
+This page links to original (newly-collected) datasets that I built and used in my published research. They are publicly available and can be used for research purposes at the condition of citing the source. If you are looking for replication packages for some of my papers, see the list of publications in the home page instead.
 
 ### <a style="color: #454545;" href="https://doi.org/10.7910/DVN/FHCCWY" target="_blank" rel="noopener">Partisanship in Worldwide Presidential Elections Dataset</a>
 
