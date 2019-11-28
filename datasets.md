@@ -10,8 +10,10 @@ This page contains original (newly-collected) datasets that I built and used in 
 
  <p> This dataset contains information (mainly election results and partisanship classification of candidates) on 958 worldwide presidential elections in the Jan1945-Sep2018 period. 
 </p>
-<p> Related publication: Daniele Girardi "Partisan shocks and financial markets: Evidence from close national elections", American Economic Journal: Applied Economics, in press, https://www.aeaweb.org/articles?id=10.1257/app.20190292&&from=f </p>
+<p> Related publication: <a style="color: #454545;" href="https://www.aeaweb.org/articles?id=10.1257/app.20190292&&from=f" target="_blank" rel="noopener">Daniele Girardi "Partisan shocks and financial markets: Evidence from close national elections", American Economic Journal: Applied Economics, in press </a></p>
  <p> Available at: https://doi.org/10.7910/DVN/FHCCWY </p>
 
 ### Firm-level stock prices on the Santiago Stock Exchange around the 1970 election and the 1973 coup
 
+ <p> This dataset contains firm-level stock market prices on the Santiago Exchange around the 1970 and the 1973 coup.</p>
+ <p> Related publication: <a style="color: #454545;" href="http://tuvalu.santafe.edu/~bowles/2018%20(JDE)%20Chile.pdf" target="_blank" rel="noopener">Daniele Girardi and Samuel Bowles "Institution shocks and economic outcomes: Allende’s election, Pinochet’s coup and the Santiago stock market", Journal of Development Economics, vol.134, pp. 16-27, 2018</a><\p>
