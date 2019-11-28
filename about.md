@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Scritti in italiano
-permalink: /about/
+permalink: /articoli_italia/
 ---
 
 <style type="text/css">a {text-decoration: none; color: inherit}</style>
