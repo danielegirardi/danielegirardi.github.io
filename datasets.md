@@ -16,4 +16,5 @@ This page links to original (newly-collected) datasets that I built and used in 
 ### Firm-level stock prices on the Santiago Stock Exchange around the 1970 election and the 1973 coup
 
  <p> This dataset contains firm-level stock market prices on the Santiago Exchange around the 1970 and the 1973 coup.</p>
- <p> Related publication: <a style="color: #454545;" href="http://tuvalu.santafe.edu/~bowles/2018%20(JDE)%20Chile.pdf" target="_blank" rel="noopener">Daniele Girardi and Samuel Bowles "Institution shocks and economic outcomes: Allende’s election, Pinochet’s coup and the Santiago stock market", Journal of Development Economics, vol.134, pp. 16-27, 2018</a><\p>
+ <p> Related publication: <a style="color: #454545;" href="http://tuvalu.santafe.edu/~bowles/2018%20(JDE)%20Chile.pdf" target="_blank" rel="noopener">Daniele Girardi and Samuel Bowles "Institution shocks and economic outcomes: Allende’s election, Pinochet’s coup and the Santiago stock market", Journal of Development Economics, vol.134, pp. 16-27, 2018</a></p>
+ <p> Available at: <a style="color: #454545;" href="https://umass.app.box.com/v/institution-shocks-repl" target="_blank" rel="noopener">https://umass.app.box.com/v/institution-shocks-repl </a></p>
