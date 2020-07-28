@@ -1,6 +1,4 @@
 <header class="entry-header">
-<table border="0" style="height: 21px; width: 100%; border-collapse: collapse; border-style: none;">
-<tbody>
 <tr style="height: 21px;">
 <td style="width: 7.93057%; height: 40px;"></td>
 <td style="width: 83.6431%; height: 40px;"><header class="entry-header">
@@ -188,8 +186,6 @@ In this context, economists who are rightly critical of the monetary union and u
 </td>
 <td style="width: 8.42624%; height: 21px;"></td>
 </tr>
-</tbody>
-</table>
 <h1 class="entry-title" style="text-align: justify;"></h1>
 </header>
 <div class="entry-content">
