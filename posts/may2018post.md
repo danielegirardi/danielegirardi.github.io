@@ -43,7 +43,7 @@ The veto concerned, specifically, the coalition's choice for Finance Minister, 8
 </p>
 
 <p>Those on the (Italian and international) Left who are either applauding the blocking of what would arguably have been a reactionary Government or engaging in endless discussions on whether Mattarella abused his powers or just enforced Italy's glorious Constitution, are mistaken and fail to appreciate the deep meaning of the Italian institutional crisis. 
-Unfortunately, this includes Pietro Grasso, the leader of the only Left-wing party represented in the Italian Parliament ('Free and Equals', LeU), who expressed his support for Mattarella's move.<a href="https://danielegirardi.github.io/posts/may2018post/#_ftn1" name="_ftnref1">[1]</a></p><span style="font-size: larger;">
+Unfortunately, this includes Pietro Grasso, the leader of the only Left-wing party represented in the Italian Parliament ('Free and Equals', LeU), who expressed his support for Mattarella's move.<a href="#_ftn1" name="_ftnref1">[1]</a></p><span style="font-size: larger;">
 </span><p>&nbsp;</p>
 <p><strong>Italy's institutional crisis</strong></p>
 <p>
@@ -86,8 +86,12 @@ As a result of this economic and political unsustainability, in Italy the point 
 The speech that President Mattarella gave to explain his veto to a 'populist' M5S-Lega government is very telling regarding his motivations:
 </p>
 
+<p>&nbsp;</p>
+
 <p>
 <blockquote><em>&nbsp;"</em><em>The designation of a Minister of the Economy always constitutes an immediate message of confidence or alarm for economic and financial players. (...) Uncertainty over our position on the euro has raised alarm among investors and savers, Italian and foreign, who have invested in our Government bonds and in our companies.</em><em> (...) </em><em>The losses on the stock exchange, day after day, burn the resources and savings of our companies and of those who have invested in them. And they configure a tangible risk for the savings of our citizens and for Italian families.</em><em> (...).</em><em>It is my duty, in fulfilling the task of appointing the ministers, which I am entrusted by the Constitution, to pay great care in protecting the savings of Italian citizens</em><em>."<a href="#_ftn4" name="_ftnref4"><strong>[4]</strong></a></em></blockquote></p>
+
+<p>&nbsp;</p>
 
 <p>
 Naturally, by 'savings' President Mattarella meant <em>accumulated</em> savings, i.e. wealth. It is primarily to preserve the value of wealth that Mattarella suspended the political right of Italian citizens to be ruled by a democratically elected government.
