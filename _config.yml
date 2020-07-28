@@ -27,7 +27,7 @@ minima:
 header_pages:
  - datasets.md
  - scritti_italia.md
- - english_posts.md
+ - posts/english_posts.md
 
 # Build settings
 theme: minima
