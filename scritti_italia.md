@@ -75,8 +75,8 @@ permalink: /articoli_italia/
 <span style="color: #333333;"><a href="http://www.reconomics.it/costruzioni-e-crescita-economica-in-italia-1950-2011/"  target="_blank" rel="noopener">(Edilbox, Settembre 2012)
 </a><em>Uno sguardo descrittivo all'importanza del settore costruzioni nelle diverse fasi della crescita economica in Italia.</em>
 
-<span style="color: #1008F4;"><strong><a href="http://www.reconomics.it/il-secondo-boom-edilizio-italiano/" target="_blank" rel="noopener">Il secondo boom edilizio italiano</a></strong>
-<span style="color: #333333;"><a href="http://www.reconomics.it/il-secondo-boom-edilizio-italiano/"  target="_blank" rel="noopener">(Edilbox, 9 Luglio 2012)
+<span style="color: #1008F4;"><strong><a href="https://danielegirardi.github.io/posts/secondoboomedilizio" target="_blank" rel="noopener">Il secondo boom edilizio italiano</a></strong>
+<span style="color: #333333;"><a href="https://danielegirardi.github.io/posts/secondoboomedilizio"  target="_blank" rel="noopener">(Edilbox, 9 Luglio 2012)
 </a><em>Tra la fine degli anni Novanta e i primi anni Duemila, il nostro paese ha vissuto un nuovo boom edilizio, trainato dall’espansione dei principali sistemi metropolitani.</em>
 
 <span style="color: #1008F4;"><strong><a href="http://www.reconomics.it/le-costruzioni-in-italia-tra-crisi-e-trasformazione/" target="_blank" rel="noopener">Le costruzioni in Italia tra crisi e trasformazione</a></strong>
