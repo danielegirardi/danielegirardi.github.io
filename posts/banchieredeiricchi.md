@@ -57,11 +57,13 @@
 <p> </p>
 
 &nbsp;
+<p> </p>
 OGNUNO PER SE': UN SEGNALE DI DISGREGAZIONE
 
 Secondo punto critico: su pressione della Germania, si è deciso che la BCE si terrà 'in pancia' solo il 20% dei titoli acquistati. Il restante 80% sarà accollato alle Banche Centrali dei singoli Stati Membri. <strong>Chiedere a ogni banca centrale di acquistarsi i bond del proprio paese significa lanciare&nbsp;un segnale di disunione, che influenzando le aspettative degli investitori finanziari potrebbe contribuire alla reale disgregazione dell'Eurozona.</strong>
 
 &nbsp;
+<p> </p>
 PER UNA RIPRESA SOSTENIBILE: SCUOLE E OSPEDALI, NON ASSET FINANZIARI
 
 <p style="text-align: justify;">Il terzo punto critico è il più importante. Anche nei paesi dove è stata attuata in modo efficace (USA, UK, Giappone), la strategia di crescita basata solo sulla politica monetaria iper-espansiva ha portato una ripresa squilibrata,&nbsp;trainata dai profitti finanziari. Una ripresa di cui beneficiano quasi solo le fasce sociali più ricche e che aumenta la già sproporzionata finanziarizzazione dell'economia.</p>
