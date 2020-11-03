@@ -76,7 +76,7 @@ Parallelamente, il <strong>declino dei salari reali</strong> ha indebolito ulter
 <p style="text-align: justify;">- Crescita della spesa per opere pubbliche</p>
 &nbsp;
 <p style="text-align: justify;">I “PRESUPPOSTI” PER L’ESPANSIONE: CRESCITA DEMOGRAFICA E MIGRAZIONI</p>
-<p style="text-align: justify;">L’incremento demografico, o più precisamente il forte aumento del numero delle famiglie/alloggio <sup><a href="#nota3" name="note3">[3]</a></sup> è stato causato in primo luogo dai forti flussi migratori in entrata<sup><a href="#nota4" name="note4>[4]</a></sup>, e ha quindi interessato soprattutto le aree più propulsive dal punto di vista economico e occupazionale. Ma un significativo contributo alla crescita delle famiglie è venuto anche da fattori interni; in particolare, durante gli anni Novanta e i primi anni Duemila la maggior parte dei baby-boomers, i nati negli anni Sessanta (un decennio di boom delle nascite, come è noto), ha raggiunto l’età in cui si lascia la famiglia d’origine per formarne una nuova. (<sup><a href=" http:="" www.edilbox.it="" mercato-edilizia="" 7="" fenomeni-demografici-e-dinamiche-di-mercato-tra-vecchio-e-nuovo-ciclo.aspx"="" target="_blank">Campanelli, 2012</a>)</sup></p>
+<p style="text-align: justify;">L’incremento demografico, o più precisamente il forte aumento del numero delle famiglie/alloggio <sup><a href="#nota3" name="note3">[3]</a></sup> è stato causato in primo luogo dai forti flussi migratori in entrata<sup><a href="#nota4" name="note4>[4]</a></sup>, e ha quindi interessato soprattutto le aree più propulsive dal punto di vista economico e occupazionale. Ma un significativo contributo alla crescita delle famiglie è venuto anche da fattori interni; in particolare, durante gli anni Novanta e i primi anni Duemila la maggior parte dei baby-boomers, i nati negli anni Sessanta (un decennio di boom delle nascite, come è noto), ha raggiunto l’età in cui si lascia la famiglia d’origine per formarne una nuova.<sup><a href="#nota4" name="note4">[4]</a></sup></p>
 &nbsp;
 <p style="text-align: justify;"><a href="https://danielegirardi.github.io/posts/boom_edilizio_fig5.jpg"><img class="alignnone size-full wp-image-93" src="https://danielegirardi.github.io/posts/boom_edilizio_fig5.jpg" alt="FIGURA3"></a></p>
 &nbsp;
@@ -126,7 +126,7 @@ Parallelamente, il <strong>declino dei salari reali</strong> ha indebolito ulter
 
 </div>
 <div id="ftn4"></div>
-<p style="text-align: justify;"><a href="#note4" name="nota4">[4]</a> Si veda Banca d’Italia (2009) per un’analisi econometrica dell’impatto della pressione demografica dovuta all’immigrazione sul mercato immobiliare, ed in particolare sui prezzi delle abitazioni.</p>
+<p style="text-align: justify;"><a href="#note4" name="nota4">[4]</a> Si veda <a href=" http:="" www.edilbox.it="" mercato-edilizia="" 7="" fenomeni-demografici-e-dinamiche-di-mercato-tra-vecchio-e-nuovo-ciclo.aspx"="" target="_blank">Campanelli, 2012</a> riguardo le dinamiche demografiche. Banca d’Italia (2009) per un’analisi econometrica dell’impatto della pressione demografica dovuta all’immigrazione sul mercato immobiliare, ed in particolare sui prezzi delle abitazioni.</p>
 
 </div>
 <div id="ftn5">
