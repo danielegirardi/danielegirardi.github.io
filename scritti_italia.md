@@ -15,7 +15,7 @@ permalink: /articoli_italia/
 <span style="color: #333333;"><a href="http://www.economiaepolitica.it/politiche-economiche/domanda-autonoma-crescita-ed-investimenti/"  target="_blank" rel="noopener">(Economia e Politica, 23 Febbraio 2016)
 </a><em>Questo articolo racconta un lavoro in corso, nel quale cerchiamo di misurare in modo credibile l’effetto della domanda autonoma (spesa pubblica ed export) sulla crescita e sugli investimenti.</em>
 
-<span style="color: #1008F4;"><strong><a href="http://www.glistatigenerali.com/euro-e-bce_macroeconomia/il-banchiere-dei-ricchi/" target="_blank" rel="noopener">Il banchiere dei ricchi</a></strong>
+<span style="color: #1008F4;"><strong><a href="https://danielegirardi.github.io/posts/banchieredeiricchi" target="_blank" rel="noopener">Il banchiere dei ricchi</a></strong>
 <span style="color: #333333;"><a href="http://www.glistatigenerali.com/euro-e-bce_macroeconomia/il-banchiere-dei-ricchi/"  target="_blank" rel="noopener">(Gli Stati Generali, 23 Gennaio 2015)
 </a><em>Il quantitative easing della BCE servirà (quasi) solo ad aumentare le rendite finanziarie.</em>
 
