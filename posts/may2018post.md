@@ -3,7 +3,7 @@
 <td style="width: 7.93057%; height: 40px;"></td>
 <td style="width: 83.6431%; height: 40px;"><header class="entry-header">
 <h1 class="entry-title" style="text-align: justify;"></h1>
-<h1 class="entry-title" style="text-align: justify;">Brexit, da un’altra angolazione</h1>
+<h1 class="entry-title" style="text-align: justify;">Italy's institutional crisis, the Euro, and the Left</h1>
 </header>
 <div class="entry-content">
 <div class="page" title="Page 1">
