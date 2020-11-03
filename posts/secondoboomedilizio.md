@@ -126,7 +126,7 @@ Parallelamente, il <strong>declino dei salari reali</strong> ha indebolito ulter
 
 </div>
 <div id="ftn4"></div>
-<p style="text-align: justify;"><a href="#note4" name="nota4">[4]</a> Si veda <a href=" http:="" www.edilbox.it="" mercato-edilizia="" 7="" fenomeni-demografici-e-dinamiche-di-mercato-tra-vecchio-e-nuovo-ciclo.aspx"="" target="_blank">Campanelli, 2012</a> riguardo le dinamiche demografiche. Banca d’Italia (2009) per un’analisi econometrica dell’impatto della pressione demografica dovuta all’immigrazione sul mercato immobiliare, ed in particolare sui prezzi delle abitazioni.</p>
+<p style="text-align: justify;"><a href="#note4" name="nota4">[4]</a> Si veda <a href=" http:="" www.edilbox.it="" mercato-edilizia="" 7="" fenomeni-demografici-e-dinamiche-di-mercato-tra-vecchio-e-nuovo-ciclo.aspx"="" target="_blank">Campanelli (2012)</a> riguardo le dinamiche demografiche. Banca d’Italia (2009) per un’analisi econometrica dell’impatto della pressione demografica dovuta all’immigrazione sul mercato immobiliare, ed in particolare sui prezzi delle abitazioni.</p>
 
 </div>
 <div id="ftn5">
