@@ -59,14 +59,12 @@
 
 &nbsp;
 <p> </p>
-<br /> 
 <p style="text-align: justify;">OGNUNO PER SE': UN SEGNALE DI DISGREGAZIONE</p>
 <br /> 
 Secondo punto critico: su pressione della Germania, si è deciso che la BCE si terrà 'in pancia' solo il 20% dei titoli acquistati. Il restante 80% sarà accollato alle Banche Centrali dei singoli Stati Membri. <strong>Chiedere a ogni banca centrale di acquistarsi i bond del proprio paese significa lanciare&nbsp;un segnale di disunione, che influenzando le aspettative degli investitori finanziari potrebbe contribuire alla reale disgregazione dell'Eurozona.</strong>
 
 &nbsp;
 <p> </p>
-<br /> 
 <br /> 
 PER UNA RIPRESA SOSTENIBILE: SCUOLE E OSPEDALI, NON ASSET FINANZIARI
 
