@@ -6,9 +6,9 @@ permalink: /articoli_italia/
 
 <style type="text/css">a {text-decoration: none; color: inherit}</style>
 
-<span style="color: #1008F4;"><strong><a href="http://www.reconomics.it/brexit-da-unaltra-angolazione/" target="_blank" rel="noopener">Brexit, da un'altra angolazione</a></strong></span>
+<span style="color: #1008F4;"><strong><a href="http://www.glistatigenerali.com/borsa_istituzioni-ue/brexit-da-unaltra-angolazione/" target="_blank" rel="noopener">Brexit, da un'altra angolazione</a></strong></span>
 <span style="color: #333333;"><a href="http://www.glistatigenerali.com/borsa_istituzioni-ue/brexit-da-unaltra-angolazione/"  target="_blank" rel="noopener">(Gli Stati Generali, 24 Giugno 2016)</a>
-<em>Mercati finanziari e ‘prediction markets’ sembrano avere sottostimato la possibilità della Brexit...</em>
+<em> Mercati finanziari e ‘prediction markets’ sembrano avere sottostimato la possibilità della Brexit. A fronte di sondaggi che nel complesso davano un risultato vicino al 50-50, con il Leave leggermente in vantaggio, i mercati implicavano una probabilità di vittoria del Remain intorno al 75-80%... </em>
 </span>
 
 <span style="color: #1008F4;"><strong><a href="http://www.reconomics.it/domanda-autonoma-crescita-ed-investimenti/" target="_blank" rel="noopener">Domanda autonoma, crescita ed investimenti (con Riccardo Pariboni)</a></strong>
