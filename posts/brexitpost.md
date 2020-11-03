@@ -33,8 +33,9 @@
 <div class="column">
 <span style="font-size: larger;">
 <p>Daniele Girardi</p>
+  </span>
 <p>(24 Giugno 2016)</p>
-</span>
+
 <p> </p>
 <p><em><strong>Persino mercati finanziari e 'prediction markets' sembrano avere sottostimato clamorosamente la possibilità della Brexit. A fronte di sondaggi che nel complesso davano un risultato vicino al 50-50, leggermente verso il Leave, i mercati implicavano una probabilità di vittoria del Remain intorno al 75-80%. Numeri ingiustificabili, in retrospettiva. Questo rivela qualcosa di importante sulle distorsioni che tendiamo ad avere nel leggere i dati di cui disponiamo e nell’effettuare previsioni: siamo propensi a vedere collegamenti e regolarità dove non esistono</strong></em></p>
 <p> </p>
