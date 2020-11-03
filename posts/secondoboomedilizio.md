@@ -1,5 +1,5 @@
 <p style="text-align: justify;"><img class="alignnone size-full wp-image-88" src="https://danielegirardi.github.io/posts/boomedilizio_titleimage.jpg" alt="Cicli Edilizi in Italia 1951-2011"></p>
-
+<br \>
 <header class="entry-header">
 <tr style="height: 21px;">
 <td style="width: 7.93057%; height: 40px;"></td>
