@@ -67,13 +67,13 @@ permalink: /articoli_italia/
 <span style="color: #333333;"><a href="http://old.sbilanciamoci.info/Sezioni/italie/Sull-Imu-ha-vinto-il-blocco-edilizio-20170.html"  target="_blank" rel="noopener">(Sbilanciamoci, 20 Settembre 2013</a>;  <a href="http://www.eddyburg.it/2013/09/sullimu-ha-vinto-il-blocco-edilizio.html"  target="_blank" rel="noopener">Eddyburg, 21 Settembre 2013</a>)
 </a><em>Il provvedimento del governo rappresenta una nuova vittoria del ‘blocco edilizio’, una formazione sociale che da 50 anni condiziona la politica economica del nostro paese.</em>
 
-<span style="color: #1008F4;"><strong><a href="http://www.reconomics.it/barili-di-carta-crisi-finanziaria-e-prezzi-delle-materie-prime/" target="_blank" rel="noopener">“Barili di carta”: crisi finanziaria e prezzi delle materie prime</a></strong>
+<span style="color: #1008F4;"><strong><a href="https://danielegirardi.github.io/posts/barili_di_carta" target="_blank" rel="noopener">“Barili di carta”: crisi finanziaria e prezzi delle materie prime</a></strong>
 <span style="color: #333333;"><a href="http://sbilanciamoci.info/barili-di-carta-le-materie-prime-in-balia-del-casino-17364/"  target="_blank" rel="noopener">(Sbilanciamoci, 19 Marzo 2013)
 </a><em>Le recenti fluttuazioni dei prezzi delle materie prime sui mercati internazionali non sono giustificate dalle dinamiche produzione-consumo. Piuttosto, sono il risultato delle scommesse che la finanza effettua sui mercati a futuri.</em>
 
-<span style="color: #1008F4;"><strong><a href="http://www.reconomics.it/costruzioni-e-crescita-economica-in-italia-1950-2011/" target="_blank" rel="noopener">Costruzioni e crescita economica in Italia (1950-2011)</a></strong>
-<span style="color: #333333;"><a href="http://www.reconomics.it/costruzioni-e-crescita-economica-in-italia-1950-2011/"  target="_blank" rel="noopener">(Edilbox, Settembre 2012)
-</a><em>Uno sguardo descrittivo all'importanza del settore costruzioni nelle diverse fasi della crescita economica in Italia.</em>
+<span style="color: #1008F4;"><strong><a href="https://danielegirardi.github.io/posts/costruzioni_e_crescita" target="_blank" rel="noopener">Costruzioni e crescita economica in Italia (1950-2011)</a></strong>
+(Edilbox, Settembre 2012)
+<em>Uno sguardo descrittivo al peso del settore costruzioni nelle diverse fasi della crescita economica in Italia.</em>
 
 <span style="color: #1008F4;"><strong><a href="https://danielegirardi.github.io/posts/secondoboomedilizio" target="_blank" rel="noopener">Il secondo boom edilizio italiano</a></strong>
 <span style="color: #333333;"><a href="https://danielegirardi.github.io/posts/secondoboomedilizio"  target="_blank" rel="noopener">(Edilbox, 9 Luglio 2012)
