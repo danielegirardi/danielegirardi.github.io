@@ -47,13 +47,15 @@
 <p style="text-align: justify;"><img src="https://danielegirardi.github.io/posts/crollo_petrolio_fig1.png" alt="petrolio_sg"></p>
 <p style="text-align: justify;"><span style="color: #000000;">QUALCHE DUBBIO SULLA SPIEGAZIONE&nbsp;"MAINSTREAM"</span></p>
 <p style="text-align: justify;"><span style="color: #000000;">Una spiegazione&nbsp;molto diffusa, sostenuta ad esempio dall'<a href="http://www.economist.com/blogs/economist-explains/2014/12/economist-explains-4?zid=298&amp;ah=0bc99f9da8f185b2964b6cef412227be" target="_blank">Economist</a> e ripresa da</span> <a href="http://www.internazionale.it/notizie/2014/12/16/petrolio-e-rublo-in-picchiata" target="_blank">Internazionale</a><span style="color: #000000;">, afferma&nbsp;che il crollo del prezzo del petrolio è dovuto a quattro fattori:</span></p>
+<br>
 <span style="color: #000000;">- il rallentamento dell'attività economica globale;</span>
-
+<br>
 <span style="color: #000000;">- il fatto che, nonostante i conflitti armati, Iraq e Siria non abbiano ridotto la propria produzione di greggio;</span>
-
+<br>
 <span style="color: #000000;">- l'aumento della produzione di petrolio da fonti non convenzionali negli USA (shale oil);</span>
-
+<br>
 <span style="color: #000000;">- il rifiuto dell'OPEC di&nbsp;contrastare la discesa del prezzo del petrolio riducendo la propria produzione;</span>
+<br>
 <p style="text-align: justify;"><span style="color: #000000;">Questa spiegazione è poco convincente. La decelerazione&nbsp;dell'attività economica globale&nbsp;è tale da giustificare un calo moderato dei prezzi delle commodities, non un crollo come quello che stiamo osservando. Il rallentamento delle economie emergenti è iniziato nella seconda metà del 2011, così come la stagnazione dell'Eurozona, ma tra 2011 e inizio 2014 il prezzo del greggio è rimasto stabile. E la principale&nbsp;economia mondiale, gli USA, è attualmente in forte&nbsp;ripresa. Il rallentamento della crescita globale non può quindi spiegare il crollo degli ultimi sei mesi.</span></p>
 <p style="text-align: justify;"><span style="color: #000000;">Andiamo ad esaminare gli altri tre fattori.&nbsp;Il fatto che non si sia verificato un calo della produzione in Iraq, Siria e nei paesi OPEC può aver agevolato la discesa dei prezzi, ma non può esserne la causa: stiamo parlando di una <em>mancata diminuzione</em> dell'offerta, non di un aumento. L'aumento della produzione USA è un fattore importantissimo, ma è in atto da diversi anni e non ha accelerato particolarmente negli ultimi mesi. Può spiegare la moderazione del prezzo del petrolio&nbsp;negli ultimi cinque anni, ma non il crollo degli ultimi sei mesi.&nbsp;</span><span style="color: #000000;">Inoltre,</span> <a href="http://www.project-syndicate.org/commentary/commodities-oil-falling-prices-by-jeffrey-frankel-2014-12" target="_blank">come ricordato da Jeffrey Frankel</a>, <span style="color: #000000;">il prezzo&nbsp;di quasi tutte le materie prime sta crollando, non solo quello del petrolio. Un calo così generalizzato non può essere spiegato da fattori specifici del mercato petrolifero come la crescita della produzione USA o il mancato calo della produzione in Medio Oriente.</span></p>
 <p style="text-align: justify;"><span style="color: #000000;">In effetti nelle previsioni sull'andamento del prezzo del petrolio prodotte dall'FMI a Ottobre si teneva esplicitamente conto di questi quattro fattori, che erano già totalmente noti. Eppure <a title="L’economia mondiale in 5 grafici" href="http://www.reconomics.it/leconomia-mondiale-in-5-grafici/" target="_blank">si prevedeva un calo lieve e graduale</a>, a dimostrazione che questi quattro fattori, di per sè, non sono tali da giustificare un crollo del prezzo come quello che stiamo osservando.</span></p>
