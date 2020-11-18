@@ -24,15 +24,15 @@ permalink: /articoli_italia/
 </a><em>Il rallentamento dell'economia globale e l'aumento della produzione USA non sono gli unici fattori dietro la caduta del prezzo del petrolio. Dobbiamo guardare anche alla politica monetaria e alle dinamiche dei tassi di cambio, che influenzano le strategie degli operatori finanziari che investono nelle commodities.  </em>
 
 <span style="color: #1008F4;"><strong><a href="https://danielegirardi.github.io/posts/cinque_grafici" target="_blank" rel="noopener">Uno sguardo sull'economia mondiale in 5 grafici</a></strong>
-(16 Dicembre 2014)
+<span style="color: #333333;">(16 Dicembre 2014)
 <em>Uno sguardo all’andamento del sistema economico globale attraverso cinque grafici che tracciano quattro importanti variabili.</em>
 
 <span style="color: #1008F4;"><strong><a href="https://danielegirardi.github.io/posts/debito_ita_post" target="_blank" rel="noopener">Debito pubblico italiano: un disastro evitabile</a></strong>
-(7 Dicembre 2014)
+<span style="color: #333333;">(7 Dicembre 2014)
 <em> Alla radice dell’accumulo del debito ci sono la perdita di competitività dell’export, l’alta evasione fiscale e il “divorzio” tra Tesoro e Banca Centrale.</em>
 
 <span style="color: #1008F4;"><strong><a href="https://danielegirardi.github.io/posts/premature_deindustrialization" target="_blank" rel="noopener">Se la Cina e l'India si 'deindustrializzano'</a></strong>
-(Edilbox, 1 Dicembre 2014)
+<span style="color: #333333;">(Edilbox, 1 Dicembre 2014)
 <em> Una delle incognite che gravano sul percorso di crescita delle attuali economie emergenti riguarda la capacità di realizzare fino in fondo un processo di industrializzazione. </em>
 
 <span style="color: #1008F4;"><strong><a href="http://www.reconomics.it/uk-e-nord-europa-una-nuova-bolla-immobiliare/" target="_blank" rel="noopener">UK e Nord Europa: una nuova bolla immobiliare?</a></strong>
@@ -40,11 +40,11 @@ permalink: /articoli_italia/
 </a><em>I prezzi delle case sono tornati a crescere in molti paesi avanzati. In UK e Nord Europa (Svezia e Norvegia ma anche, più giù, Belgio e Francia) il nuovo boom immobiliare è particolarmente forte e potrebbe rivelarsi insostenibile. La nuova crescita delle valutazioni immobiliari negli USA appare invece, al momento, in linea con i fondamentali del mercato.</em>
 
 <span style="color: #1008F4;"><strong><a href="https://danielegirardi.github.io/posts/renzi_economia" target="_blank" rel="noopener">Renzi e l’economia</a></strong>
-(23 Novembre 2014)
+<span style="color: #333333;">(23 Novembre 2014)
 <em>Quando è voluto diventare premier, Renzi pensava stesse arrivando la ripresa. Invece il paese è di nuovo in recessione e la sua politica economica è inadeguata come quella dei precedenti governi. </em>
 
 <span style="color: #1008F4;"><strong><a href="https://danielegirardi.github.io/posts/previsioni_sbagliate" target="_blank" rel="noopener">Perchè i Governi stanno sbagliando le previsioni?</a></strong>
-(Sbilanciamoci, 19 Novembre 2014)
+<span style="color: #333333;">(Sbilanciamoci, 19 Novembre 2014)
 <em>Governi e istituzioni internazionali hanno sottovalutato le conseguenze depressive delle politiche di austerità perché basano le proprie previsioni su modelli insufficientemente affidabili. </em>
 
 <span style="color: #1008F4;"><strong><a href="https://danielegirardi.github.io/posts/manovra_2015" target="_blank" rel="noopener">Manovra 2015: la politica fiscale non cambia verso</a></strong>
