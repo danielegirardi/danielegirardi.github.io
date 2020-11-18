@@ -15,7 +15,7 @@ Publications:</strong></h1>
   <ul style="list-style-type: disc;">
  	<li>"Reverse hysteresis? Persistent effects of autonomous demand expansions" (with Walter Paternesi Meloni and Antonella Stirati)<br/> 
     <em>Cambridge Journal of Economics</em>, Vol. 44, Issue 4, pp. 835–869, 2020 <br/>
-    [<a style="color: #454545;"href="https://academic.oup.com/cje/article/44/4/835/5826127?guestAccessKey=87f9804a-6bc9-41e1-9b55-27b5e819e937" target="_blank" rel="noopener"> Paper and supplementary materials </a>]</li>
+    [<a style="color: #454545;"href="https://academic.oup.com/cje/article/44/4/835/5826127?guestAccessKey=87f9804a-6bc9-41e1-9b55-27b5e819e937" target="_blank" rel="noopener"> Paper and supplementary materials </a> ]</li>
 </ul>
 
   <ul style="list-style-type: disc;">
