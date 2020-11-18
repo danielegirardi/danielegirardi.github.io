@@ -1,3 +1,9 @@
+---
+layout: page
+title: Research
+permalink: /research/
+---
+
 
 <h1><strong style="font-size: 1.5rem;">
 Publications:</strong></h1>
