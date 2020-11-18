@@ -52,11 +52,19 @@ Publications:</strong></h1>
 
 <h1><strong style="font-size: 1.5rem;">
 Work in progress:</strong></h1>
+
+<ul style="list-style-type: disc;">
+ 	<li>"Does economics make you selfish?" (with Sai Madhurika Mamunuru, Simon Halliday and Samuel Bowles)<br/>
+    [<a style="color: #454545;" href="href="https://umass.box.com/v/demys-paper-mar20" target="_blank" rel="noopener">Paper</a> - <a style="color: #454545;" href="https://umass.box.com/v/demys-paper-mar20" target="_blank" rel="noopener">Slides</a> ]</li>
+</ul>
+
 <ul style="list-style-type: disc;">
  	<li>"Does economics make you selfish?" (with Sai Madhurika Mamunuru, Simon Halliday and Samuel Bowles) <br/>
       [<a style="color: #454545;"href="https://umass.box.com/v/demys-paper-mar20" target="_blank" rel="noopener">Paper</a>] -  
     [<a style="color: #454545;"href="https://umass.box.com/v/slides-demys" target="_blank" rel="noopener">Slides</a>]</li>
 </ul>
+
+
 <ul style="list-style-type: disc;">
  	<li>"Partisanship and Local Fiscal Policy: Evidence from Brazilian Cities" (with Raphael Gouvea) <br/>
     [<a style="color: #454545;"href="https://umass.box.com/v/PLFP-oct-2020" target="_blank" rel="noopener">Paper</a> - <a style="color: #454545;" href="https://umass.box.com/v/electionsbrslides" target="_blank" rel="noopener">Slides</a>]</li>
