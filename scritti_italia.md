@@ -43,7 +43,7 @@ permalink: /articoli_italia/
 (23 Novembre 2014)
 <em>Quando è voluto diventare premier, Renzi pensava stesse arrivando la ripresa. Invece il paese è di nuovo in recessione e la sua politica economica è inadeguata come quella dei precedenti governi. </em>
 
-<span style="color: #1008F4;"><strong><a href=https://danielegirardi.github.io/posts/previsioni_sbagliate" target="_blank" rel="noopener">Perchè i Governi stanno sbagliando le previsioni?</a></strong>
+<span style="color: #1008F4;"><strong><a href="https://danielegirardi.github.io/posts/previsioni_sbagliate" target="_blank" rel="noopener">Perchè i Governi stanno sbagliando le previsioni?</a></strong>
 (Sbilanciamoci, 19 Novembre 2014)
 <em>Governi e istituzioni internazionali hanno sottovalutato le conseguenze depressive delle politiche di austerità perché basano le proprie previsioni su modelli insufficientemente affidabili. </em>
 
