@@ -62,14 +62,18 @@ Work in progress:</strong></h1>
 
 <ul style="list-style-type: disc;">
  	<li>"Partisanship and Local Fiscal Policy: Evidence from Brazilian Cities" (with Raphael Gouvea) <br/>
-    [<a style="color: #454545; "href="https://umass.box.com/v/PLFP-oct-2020" target="_blank" rel="noopener">Paper</a> - <a style="color: #454545;" href="https://umass.box.com/v/electionsbrslides" target="_blank" rel="noopener">Slides</a>]</li>
+    [<a style="color: #454545;" href="https://umass.box.com/v/PLFP-oct-2020" target="_blank" rel="noopener">Paper</a>] -  
+    [<a style="color: #454545;" href="https://umass.box.com/v/electionsbrslides" target="_blank" rel="noopener">Slides</a>]</li>
 </ul>
+
   <ul style="list-style-type: disc;">
  	<li>"Market transition as a coordination problem" (with Roberto Veneziani) <br/></li>   
 </ul>  
+
 <ul style="list-style-type: disc;">
  	<li>"Old and new formulations of the neoclassical theory of aggregate investment: a critical review"<br/>
-   [<a style="color: #454545; "href="https://scholarworks.umass.edu/cgi/viewcontent.cgi?article=1220&context=econ_workingpaper" target="_blank" rel="noopener">Paper</a> - <a style="color: #454545;" href="https://umass.box.com/v/storep2017slides" target="_blank" rel="noopener">Slides</a>]
+    [<a style="color: #454545;" href="href="https://scholarworks.umass.edu/cgi/viewcontent.cgi?article=1220&context=econ_workingpaper" target="_blank" rel="noopener">Paper</a>] - 
+    [<a style="color: #454545;" href="https://umass.box.com/v/storep2017slides target="_blank" rel="noopener">Slides</a>]</li>    
 </ul>
 
     
