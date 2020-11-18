@@ -6,10 +6,17 @@ permalink: /research/
     
 <h1><strong style="font-size: 1.5rem;">
 Publications:</strong></h1>
+
 <ul style="list-style-type: disc;">
  	<li>"Partisan shocks and financial markets: evidence from close national elections" <br/>
     <em>American Economic Journal: Applied Economics</em>, Vol.12, N.4, Oct 2020 <br/>
     [<a style="color: #454545;" href="https://www.aeaweb.org/articles?id=10.1257/app.20190292&&from=f" target="_blank" rel="noopener">Paper</a> - <a style="color: #454545;" href="https://umass.box.com/v/slidespoliticalshocks" target="_blank" rel="noopener">Slides</a> - <a style="color: #454545;" href="https://doi.org/10.7910/DVN/FHCCWY" target="_blank" rel="noopener">Presidential elections dataset</a> - <a style="color: #454545;" href="https://doi.org/10.3886/E115008V1" target="_blank" rel="noopener">Replication files</a>  ]</li>
+</ul>
+
+<ul style="list-style-type: disc;">
+ 	<li>"Reverse hysteresis? Persistent effects of autonomous demand expansions" (with Walter Paternesi Meloni and Antonella Stirati)<br/>
+    <em>Cambridge Journal of Economics</em>, Vol. 44, Issue 4, pp. 835–869, 2020 <br/>
+    [<a style="color: #454545;" href="https://academic.oup.com/cje/article/44/4/835/5826127?guestAccessKey=87f9804a-6bc9-41e1-9b55-27b5e819e937" target="_blank" rel="noopener">Paper and supplementary materials</a>]</li>
 </ul>
 
   <ul style="list-style-type: disc;">
