@@ -4,16 +4,63 @@ title: Research
 permalink: /research/
 ---
 
+<div class="home">
+  {%- if page.title -%}
+    <h1 class="page-heading">{{ page.title }}</h1>
+  {%- endif -%}
 
+  {{ content }}
+
+<head>
+<meta name="viewport">
+<style>
+* {
+  box-sizing: border-box;
+}
+
+/* Create two unequal columns that floats next to each other */
+.column {
+  float: left;
+  padding: 10px;
+}
+
+.left {
+  width: 30%;
+}
+
+.right {
+  width: 70%;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+</style>
+</head>
+<body>
+
+<div class="row">
+  <div class="column left">
+<img class="wp-image-1072 alignleft" src="https://danielegirardi.github.io/foto_cv.jpg" alt="" width="350" />
+  </div>
+  <div class="column right">
+    
+</div>
+</div>  
+</body>  
+    
 <h1><strong style="font-size: 1.5rem;">
 Publications:</strong></h1>
 <ul style="list-style-type: disc;">
- 	<li>"Partisan shocks and financial markets: evidence from close national elections" <br/>
+ 	<li>"Partisan shocks and financial markets: evidence from close national elections" <br/>
     <em>American Economic Journal: Applied Economics</em>, Vol.12, N.4, Oct 2020 <br/>
     [<a style="color: #454545;" href="https://www.aeaweb.org/articles?id=10.1257/app.20190292&&from=f" target="_blank" rel="noopener">Paper</a> - <a style="color: #454545;" href="https://umass.box.com/v/slidespoliticalshocks" target="_blank" rel="noopener">Slides</a> - <a style="color: #454545;" href="https://doi.org/10.7910/DVN/FHCCWY" target="_blank" rel="noopener">Presidential elections dataset</a> - <a style="color: #454545;" href="https://doi.org/10.3886/E115008V1" target="_blank" rel="noopener">Replication files</a>  ]</li>
 </ul>
   <ul style="list-style-type: disc;">
- 	<li>"Reverse hysteresis? Persistent effects of autonomous demand expansions" (with Walter Paternesi Meloni and Antonella Stirati)<br/> 
+ 	<li>"Reverse hysteresis? Persistent effects of autonomous demand expansions" (with Walter Paternesi Meloni and Antonella Stirati)<br/> 
     <em>Cambridge Journal of Economics</em>, Vol. 44, Issue 4, pp. 835–869, 2020 <br/>
     [<a style="color: #454545;"href="https://academic.oup.com/cje/article/44/4/835/5826127?guestAccessKey=87f9804a-6bc9-41e1-9b55-27b5e819e937" target="_blank" rel="noopener"> Paper and supplementary materials </a>]</li>
 </ul>
@@ -34,7 +81,7 @@ Publications:</strong></h1>
 </ul>
  <ul style="list-style-type: disc;">
  	<li>"Long-run effective demand in the US economy" (with Riccardo Pariboni) <br/> 
-    <em>Review of Political Economy</em>,  Vol.28, n.4, pp.523-544, 2016 <br/>
+    <em>Review of Political Economy</em>,  Vol.28, n.4, pp.523-544, 2016 <br/>
     [<a style="color: #454545;" href="http://dx.doi.org/10.1080/09538259.2016.1209893" target="_blank" rel="noopener">Paper</a>]</li>
 </ul>
 <ul style="list-style-type: disc;">
@@ -66,3 +113,8 @@ Work in progress:</strong></h1>
  	<li>"Old and new formulations of the neoclassical theory of aggregate investment: a critical review"<br/>
    [<a style="color: #454545;"href="https://scholarworks.umass.edu/cgi/viewcontent.cgi?article=1220&context=econ_workingpaper" target="_blank" rel="noopener">Paper</a> - <a style="color: #454545;" href="https://umass.box.com/v/storep2017slides" target="_blank" rel="noopener">Slides</a>]
 </ul>
+
+    
+
+
+
