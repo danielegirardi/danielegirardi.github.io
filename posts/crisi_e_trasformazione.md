@@ -37,7 +37,8 @@
 <p>(6 Giugno 2012)</p>
 
 <p> </p>
-
+<a href="https://mpra.ub.uni-muenchen.de/49901/1/MPRA_paper_49901.pdf" target="_blank">Una versione più estesa di questo articolo è disponibile qui</a>
+<p> </p>
 <p style="text-align: justify;"><span style="font-size: 14px;"><span style="line-height: 1.5; font-family: arial, helvetica, sans-serif;"><em>Il settore costruzioni italiano non sta attraversando soltanto una crisi da sovra-produzione, ma risulta a ben vedere investito da un vero e proprio cambiamento strutturale. I comparti "tradizionali", quelli che hanno trainato il settore fino ad oggi (nuova produzione residenziale in primis) sono destinati ad un ridimensionamento strutturale, mentre nuovi fattori propulsivi stanno emergendo, legati all'energy technology, alla riqualificazione del patrimonio esistente, alle innovazioni di prodotto, all'integrazione tra costruzioni e servizi. C'è la potenzialità per aprire un nuovo ciclo improntato ad una maggiore sostenibilità, ma che ciò accada davvero è tutt'altro che scontato.</em></span></span></p>
 &nbsp;
 <p style="text-align: justify;"><span style="font-size: 14px;"><span style="font-family: arial, helvetica, sans-serif;">LA CRISI</span></span></p>
