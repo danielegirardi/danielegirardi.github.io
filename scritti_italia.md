@@ -85,5 +85,5 @@ permalink: /articoli_italia/
 
 <span style="color: #1008F4;"><strong><a href="http://www.reconomics.it/esternalizzazioni-e-facility-management-nel-settore-pubblico-di-cosa-stiamo-parlando/" target="_blank" rel="noopener">Esternalizzazioni e facility management nel settore pubblico: di cosa stiamo parlando?
 </a></strong>
-<span style="color: #333333;"><a href="http://www.reconomics.it/esternalizzazioni-e-facility-management-nel-settore-pubblico-di-cosa-stiamo-parlando/"  target="_blank" rel="noopener">(Edilbox, 5 Febbraio e 5 Marzo 2012)
+<span style="color: #333333;"><a href="https://danielegirardi.github.io/posts/facility_management"  target="_blank" rel="noopener">(Edilbox, 5 Febbraio e 5 Marzo 2012)
 </a><em>I bandi pubblici per l’esternalizzazione di servizi continuano a crescere nonostante la crisi. Un mercato che comprende un insieme eterogeneo e disparato di pratiche e attività. Per capirlo, bisogna cercare di individuare i comparti di attività che lo compongono.</em>
