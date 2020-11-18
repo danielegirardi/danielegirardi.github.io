@@ -57,7 +57,7 @@
 <p style="text-align: justify;"><span style="color: #000000;">Prendiamo ad esempio le previsioni del Fondo Monetario Internazionale (FMI), probabilmente il più autorevole tra i previsori istituzionali. Il Fondo Monetario da quattro anni prevede nel suo report di Ottobre l’arrivo imminente della ripresa; ripresa che poi puntualmente non si manifesta (vedi grafico). Gli stessi errori di sopravvalutazione delle prospettive economiche sono stati compiuti da tutte le principali istituzioni (OCSE, CE, BCE, Governo) e hanno riguardato sostanzialmente tutte le economie dell'Area Euro.</span></p>
 &nbsp;
 
-[caption id="attachment_33" align="aligncenter" width="701" class=" "]<img class="wp-image-33" src="http://www.reconomics.it/wp-content/uploads/2014/11/IMF_Forecasts.jpg" alt="IMF_Forecasts" width="701" height="320">
+[caption id="attachment_33" align="aligncenter" width="701" class=" "]<img class="wp-image-33" src="https://danielegirardi.github.io/posts/previsioni_sbagliate_IMF_Forecasts.jpg" alt="IMF_Forecasts">
 <p align="center"><strong>PIL Italia - Previsioni del modello di equilibrio economico generale dell'FMI e valori realizzati </strong><br><small>(valori deflazionati; 2010=100)<em><br>Fonte: Elaborazione dell'autore su dati FMI World Economic Outlook, varie edizioni</em></small></p>
 [/caption]
 
