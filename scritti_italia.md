@@ -60,7 +60,7 @@ permalink: /articoli_italia/
 </a><em>Dalla metà del 2012 alcune grandi economie mature (USA, UK, Germania) hanno ripreso a trainare il mercato immobiliare globale. Il nuovo boom dell’immobiliare appare più sostenibile in USA e Germania che in Inghilterra.</em>
 
 <span style="color: #1008F4;"><strong><a href="https://danielegirardi.github.io/posts/spread_2013_post" target="_blank" rel="noopener">Perché lo spread si è abbassato?</a></strong>
-(Edilbox, 16 ottobre 2013)
+<span style="color: #333333;">(Edilbox, 16 ottobre 2013)
 <em>Lo spread è in discesa dall’estate 2012 perchè la BCE si è impegnata a fare qualsiasi cosa serva per preservare l’unione monetaria. In generale, l’andamento dello spread italiano sembra dipendere da rischio di uscita dall’Euro, interventi della BCE e prospettive sulla crescita economica, mentre la politica interna è quasi ininfluente.</em>
 
 <span style="color: #1008F4;"><strong><a href="https://danielegirardi.github.io/posts/imu_blocco_edilizio" target="_blank" rel="noopener">Sull’IMU ha vinto il blocco edilizio</a></strong>
@@ -72,7 +72,7 @@ permalink: /articoli_italia/
 </a><em>Le recenti fluttuazioni dei prezzi delle materie prime sui mercati internazionali non sono giustificate dalle dinamiche produzione-consumo. Piuttosto, sono il risultato delle scommesse che la finanza effettua sui mercati a futuri.</em>
 
 <span style="color: #1008F4;"><strong><a href="https://danielegirardi.github.io/posts/costruzioni_e_crescita" target="_blank" rel="noopener">Costruzioni e crescita economica in Italia (1950-2011)</a></strong>
-(Edilbox, Settembre 2012)
+<span style="color: #333333;">(Edilbox, Settembre 2012)
 <em>Uno sguardo descrittivo al peso del settore costruzioni nelle diverse fasi della crescita economica in Italia.</em>
 
 <span style="color: #1008F4;"><strong><a href="https://danielegirardi.github.io/posts/secondoboomedilizio" target="_blank" rel="noopener">Il secondo boom edilizio italiano</a></strong>
@@ -83,7 +83,7 @@ permalink: /articoli_italia/
 <span style="color: #333333;"><a href="https://danielegirardi.github.io/posts/crisi_e_trasformazione"  target="_blank" rel="noopener">(Edilbox, 6 Giugno 2012)
 </a><em>Il settore costruzioni italiano non sta attraversando soltanto una crisi da sovra-produzione, ma un cambiamento strutturale potenzialmente profondo.</em>
 
-<span style="color: #1008F4;"><strong><a href="http://www.reconomics.it/esternalizzazioni-e-facility-management-nel-settore-pubblico-di-cosa-stiamo-parlando/" target="_blank" rel="noopener">Esternalizzazioni e facility management nel settore pubblico: di cosa stiamo parlando?
+<span style="color: #1008F4;"><strong><a href="https://danielegirardi.github.io/posts/facility_management" target="_blank" rel="noopener">Esternalizzazioni e facility management nel settore pubblico: di cosa stiamo parlando?
 </a></strong>
-<span style="color: #333333;"><a href="https://danielegirardi.github.io/posts/facility_management"  target="_blank" rel="noopener">(Edilbox, 5 Febbraio e 5 Marzo 2012)
-</a><em>I bandi pubblici per l’esternalizzazione di servizi continuano a crescere nonostante la crisi. Un mercato che comprende un insieme eterogeneo e disparato di pratiche e attività. Per capirlo, bisogna cercare di individuare i comparti di attività che lo compongono.</em>
+<span style="color: #333333;">(Edilbox, 5 Febbraio e 5 Marzo 2012)
+<em>I bandi pubblici per l’esternalizzazione di servizi continuano a crescere nonostante la crisi. Un mercato che comprende un insieme eterogeneo e disparato di pratiche e attività. Per capirlo, bisogna cercare di individuare i comparti di attività che lo compongono.</em>
