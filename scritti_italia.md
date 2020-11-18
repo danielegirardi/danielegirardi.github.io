@@ -79,8 +79,8 @@ permalink: /articoli_italia/
 <span style="color: #333333;"><a href="https://danielegirardi.github.io/posts/secondoboomedilizio"  target="_blank" rel="noopener">(Edilbox, 9 Luglio 2012)
 </a><em>Tra la fine degli anni Novanta e i primi anni Duemila, il nostro paese ha vissuto un nuovo boom edilizio, trainato dall’espansione dei principali sistemi metropolitani.</em>
 
-<span style="color: #1008F4;"><strong><a href="http://www.reconomics.it/le-costruzioni-in-italia-tra-crisi-e-trasformazione/" target="_blank" rel="noopener">Le costruzioni in Italia tra crisi e trasformazione</a></strong>
-<span style="color: #333333;"><a href="http://www.reconomics.it/le-costruzioni-in-italia-tra-crisi-e-trasformazione/"  target="_blank" rel="noopener">(Edilbox, 6 Giugno 2012)
+<span style="color: #1008F4;"><strong><a href="https://danielegirardi.github.io/posts/crisi_e_trasformazione" target="_blank" rel="noopener">Le costruzioni in Italia tra crisi e trasformazione</a></strong>
+<span style="color: #333333;"><a href="https://danielegirardi.github.io/posts/crisi_e_trasformazione"  target="_blank" rel="noopener">(Edilbox, 6 Giugno 2012)
 </a><em>Il settore costruzioni italiano non sta attraversando soltanto una crisi da sovra-produzione, ma un cambiamento strutturale potenzialmente profondo.</em>
 
 <span style="color: #1008F4;"><strong><a href="http://www.reconomics.it/esternalizzazioni-e-facility-management-nel-settore-pubblico-di-cosa-stiamo-parlando/" target="_blank" rel="noopener">Esternalizzazioni e facility management nel settore pubblico: di cosa stiamo parlando?
