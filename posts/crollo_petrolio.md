@@ -44,7 +44,7 @@
 &nbsp;
 
 <p style="text-align: justify;"><span style="color: #000000;">Il prezzo del petrolio greggio è sceso del 44% negli ultimi sei mesi. Un vero e proprio crollo, che sta determinando&nbsp;conseguenze rilevanti per l'economia globale, mettendo in crisi intere nazioni (Russia, ma anche Brasile e Venezuela). Ma perché il prezzo del petrolio sta crollando?</span></p>
-<p style="text-align: justify;"><img src="http://www.reconomics.it/wp-content/uploads/2014/12/petrolio_sg1.png" alt="petrolio_sg" width="800" height="540"></p>
+<p style="text-align: justify;"><img src="https://danielegirardi.github.io/posts/crollo_petrolio_fig1.png" alt="petrolio_sg"></p>
 <p style="text-align: justify;"><span style="color: #000000;">QUALCHE DUBBIO SULLA SPIEGAZIONE&nbsp;"MAINSTREAM"</span></p>
 <p style="text-align: justify;"><span style="color: #000000;">Una spiegazione&nbsp;molto diffusa, sostenuta ad esempio dall'<a href="http://www.economist.com/blogs/economist-explains/2014/12/economist-explains-4?zid=298&amp;ah=0bc99f9da8f185b2964b6cef412227be" target="_blank">Economist</a> e ripresa da</span> <a href="http://www.internazionale.it/notizie/2014/12/16/petrolio-e-rublo-in-picchiata" target="_blank">Internazionale</a><span style="color: #000000;">, afferma&nbsp;che il crollo del prezzo del petrolio è dovuto a quattro fattori:</span></p>
 <span style="color: #000000;">- il rallentamento dell'attività economica globale;</span>
