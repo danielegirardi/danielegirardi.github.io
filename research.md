@@ -22,7 +22,7 @@ Publications:</strong></h1>
   <ul style="list-style-type: disc;">
  	<li>"Autonomous demand and the investment share" (with Riccardo Pariboni)<br/>
      <em>Review of Keynesian Economics</em>, Vol. 7, Issue 3, pp. 428–453, 2020 <br/>
-     [<a style="color: #454545;" href="https://doi.org/10.4337/roke.2020.03.07" target="_blank" rel="noopener">Paper</a> - <a style="color: #454545;" href="https://umass.box.com/v/autonomousdemand" target="_blank" rel="noopener">Ungated version</a>]</li>
+     [<a style="color: #454545;" href="https://doi.org/10.4337/roke.2020.03.07" target="_blank" rel="noopener">Paper</a> - <a style="color: #454545;" href="https://umass.box.com/v/autonomousdemand" target="_blank" rel="noopener">Ungated version</a> - <a style="color: #454545;" href="https://danielegirardi.github.io/posts/documents/girardi_pariboni_rio_2019_workshop.pdf" target="_blank" rel="noopener">Slides</a>]</li>
 </ul>
   <ul style="list-style-type: disc;">
  	<li>"Normal Utilization as the Adjusting Variable in Neo-Kaleckian Growth Models: A Critique" (with Riccardo Pariboni)<br/> 
