@@ -27,6 +27,7 @@ minima:
 header_pages:
  - research.md
  - datasets.md
+ - teaching.md
  - scritti_italia.md
  - posts/english_posts.md
 
