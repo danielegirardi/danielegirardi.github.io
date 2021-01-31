@@ -7,6 +7,11 @@ permalink: /research/
 <h1><strong style="font-size: 1.5rem;">
 Publications:</strong></h1>
 
+  <ul style="list-style-type: disc;">
+ 	<li>"Partisanship and Local Fiscal Policy: Evidence from Brazilian Cities" (with Raphael Rocha Gouvea) <br/>
+    <em>Journal of Development Economics</em>, Forthcoming <br/>
+    [<a style="color: #454545;"href="https://umass.box.com/v/PLFP-oct-2020" target="_blank" rel="noopener">Paper</a> - <a style="color: #454545;" href="https://umass.box.com/v/electionsbrslides" target="_blank" rel="noopener">Slides</a>]</li>
+</ul>
 <ul style="list-style-type: disc;">
  	<li>"Partisan shocks and financial markets: evidence from close national elections" <br/>
     <em>American Economic Journal: Applied Economics</em>, Vol.12, N.4, Oct 2020 <br/>
@@ -60,11 +65,6 @@ Work in progress:</strong></h1>
 </ul>
 
 
-<ul style="list-style-type: disc;">
- 	<li>"Partisanship and Local Fiscal Policy: Evidence from Brazilian Cities" (with Raphael Gouvea) <br/>
-    [<a style="color: #454545;" href="https://umass.box.com/v/PLFP-oct-2020" target="_blank" rel="noopener">Paper</a>] -  
-    [<a style="color: #454545;" href="https://umass.box.com/v/electionsbrslides" target="_blank" rel="noopener">Slides</a>]</li>
-</ul>
 
   <ul style="list-style-type: disc;">
  	<li>"Market transition as a coordination problem" (with Roberto Veneziani) <br/></li>   
