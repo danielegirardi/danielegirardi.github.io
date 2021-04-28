@@ -12,5 +12,5 @@ Macroeconomic Theory 1 (Graduate)</strong></h1>
 </ul>
 
 <ul style="list-style-type: disc;">
- 	<li><a style="color: #454545;" href="https://danielegirardi.github.io/posts/documents/Econ705_SP21_Slides_Section_7.pdf" target="_blank" rel="noopener">Evidence-based Macroeconomics </a><br/></li>
+ 	<li><a style="color: #454545;" href="https://danielegirardi.github.io/posts/documents/Econ705_SP21_Slides_Section_7.pdf" target="_blank" rel="noopener">Slides: Evidence-based Macroeconomics </a><br/></li>
 </ul>
