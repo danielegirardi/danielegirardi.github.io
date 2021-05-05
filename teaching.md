@@ -8,9 +8,16 @@ permalink: /teaching/
 Macroeconomic Theory 1 (Graduate)</strong></h1>
 
 <ul style="list-style-type: disc;">
- 	<li><a style="color: #454545;" href="https://danielegirardi.github.io/posts/documents/Harrod_Domar.pdf" target="_blank" rel="noopener">Lecture notes: The Harrod-Domar model </a><br/></li>
+ 	<li><a style="color: #454545;" href="https://danielegirardi.github.io/posts/documents/Harrod_Domar.pdf" target="_blank" rel="noopener">The Harrod-Domar model (Lecture Notes)</a><br/></li>
 </ul>
 
 <ul style="list-style-type: disc;">
- 	<li><a style="color: #454545;" href="https://danielegirardi.github.io/posts/documents/Econ705_SP21_Slides_Section_7.pdf" target="_blank" rel="noopener">Slides: Evidence-based Macroeconomics </a><br/></li>
+ 	<li><a style="color: #454545;" href="https://danielegirardi.github.io/posts/documents/Econ705_SP21_Slides_Section_7.pdf" target="_blank" rel="noopener">Evidence-based Macroeconomics (Slides) </a><br/></li>
+</ul>
+
+<h1><strong style="font-size: 1.5rem;">
+Intermediate Macroeconomics (Undergraduate)</strong></h1>
+
+<ul style="list-style-type: disc;">
+ 	<li><a style="color: #454545;" href="https://danielegirardi.github.io/posts/documents/ECON204_FA2019_Monetary_System_Slides.pdf" target="_blank" rel="noopener">The monetary system and financial markets in a modern economy (Slides) </a><br/></li>
 </ul>
