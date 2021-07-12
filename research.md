@@ -8,23 +8,20 @@ permalink: /research/
 Publications:</strong></h1>
 
   <ul style="list-style-type: disc;">
- 	<li>"Partisanship and Local Fiscal Policy: Evidence from Brazilian Cities" (with Raphael Rocha Gouvea) <br/>
+ 	<li>"Partisanship and Local Fiscal Policy: Evidence from Brazilian Cities" (with Raphael Rocha Gouvea) <br/>
     <em>Journal of Development Economics</em>, vol.150, May 2021 <br/>
     [<a style="color: #454545;" href="https://doi.org/10.1016/j.jdeveco.2021.102637" target="_blank" rel="noopener">Paper</a> - <a style="color: #454545;"href="https://danielegirardi.github.io/posts/documents/PLFP_Oct2020.pdf" target="_blank" rel="noopener">Ungated</a> - <a style="color: #454545;" href="https://danielegirardi.github.io/posts/documents/Slides_PLFP_Leeds.pdf" target="_blank" rel="noopener">Slides</a> - <a style="color: #454545;" href="https://doi.org/10.7910/DVN/11BW20" target="_blank" rel="noopener">Replication files</a>]</li>
 </ul>
-
 <ul style="list-style-type: disc;">
  	<li>"Partisan shocks and financial markets: evidence from close national elections" <br/>
     <em>American Economic Journal: Applied Economics</em>, Vol.12, N.4, Oct 2020 <br/>
     [<a style="color: #454545;" href="https://www.aeaweb.org/articles?id=10.1257/app.20190292&&from=f" target="_blank" rel="noopener">Paper</a> - <a style="color: #454545;" href="https://danielegirardi.github.io/posts/documents/partisan_shocks_slides_arin_course.pdf" target="_blank" rel="noopener">Slides</a> - <a style="color: #454545;" href="https://doi.org/10.7910/DVN/FHCCWY" target="_blank" rel="noopener">Presidential elections dataset</a> - <a style="color: #454545;" href="https://doi.org/10.3886/E115008V1" target="_blank" rel="noopener">Replication files</a>  ]</li>
 </ul>
-
-<ul style="list-style-type: disc;">
- 	<li>"Reverse hysteresis? Persistent effects of autonomous demand expansions" (with Walter Paternesi Meloni and Antonella Stirati)<br/>
+  <ul style="list-style-type: disc;">
+ 	<li>"Reverse hysteresis? Persistent effects of autonomous demand expansions" (with Walter Paternesi Meloni and Antonella Stirati)<br/> 
     <em>Cambridge Journal of Economics</em>, Vol. 44, Issue 4, pp. 835–869, 2020 <br/>
-    [<a style="color: #454545;" href="https://academic.oup.com/cje/article/44/4/835/5826127?guestAccessKey=87f9804a-6bc9-41e1-9b55-27b5e819e937" target="_blank" rel="noopener">Paper and supplementary materials</a>]</li>
+    [<a style="color: #454545;"href="https://academic.oup.com/cje/article/44/4/835/5826127?guestAccessKey=87f9804a-6bc9-41e1-9b55-27b5e819e937" target="_blank" rel="noopener"> Paper and supplementary materials </a>]</li>
 </ul>
-
   <ul style="list-style-type: disc;">
  	<li>"Autonomous demand and the investment share" (with Riccardo Pariboni)<br/>
      <em>Review of Keynesian Economics</em>, Vol. 7, Issue 3, pp. 428–453, 2020 <br/>
@@ -58,22 +55,20 @@ Publications:</strong></h1>
 
 <h1><strong style="font-size: 1.5rem;">
 Work in progress:</strong></h1>
-
 <ul style="list-style-type: disc;">
  	<li>"Does economics make you selfish?" (with Sai Madhurika Mamunuru, Simon Halliday and Samuel Bowles) <br/>
-      [<a style="color: #454545;" href="https://scholarworks.umass.edu/econ_workingpaper/304/" target="_blank" rel="noopener">Paper</a>] -  
-    [<a style="color: #454545;" href="https://danielegirardi.github.io/posts/documents/DEMYS_slides.pdf" target="_blank" rel="noopener">Slides</a>]</li>
+      [<a style="color: #454545;"href="https://scholarworks.umass.edu/econ_workingpaper/304/" target="_blank" rel="noopener">Paper</a>] -  
+    [<a style="color: #454545;"href="https://danielegirardi.github.io/posts/documents/DEMYS_slides.pdf" target="_blank" rel="noopener">Slides</a>]</li>
 </ul>
-
-
-
   <ul style="list-style-type: disc;">
  	<li>"Market transition as a coordination problem" (with Roberto Veneziani) <br/></li>   
 </ul>  
-
+    <ul style="list-style-type: disc;">
+ 	<li>"Measuring exploitation: labor-income ratios in the US, 1975-2019" (with Nicolas Grau Veloso, Roberto Veneziani and Naoki Yoshihara) <br/></li>   
+</ul>  
 <ul style="list-style-type: disc;">
  	<li>"The neoclassical theory of aggregate investment and its criticisms"<br/>
-    [<a style="color: #454545;" href="https://danielegirardi.github.io/posts/documents/Investment_Theory_Survey.pdf" target="_blank" rel="noopener">Paper</a>]</li>    
+   [<a style="color: #454545;"href="https://danielegirardi.github.io/posts/documents/Investment_Theory_Survey.pdf" target="_blank" rel="noopener">Paper</a>]
 </ul>
 
     
