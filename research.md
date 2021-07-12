@@ -8,9 +8,9 @@ permalink: /research/
 Publications:</strong></h1>
 
   <ul style="list-style-type: disc;">
- 	<li>"Partisanship and Local Fiscal Policy: Evidence from Brazilian Cities" (with Raphael Rocha Gouvea) <br/>
-    <em>Journal of Development Economics</em>, Forthcoming <br/>
-    [<a style="color: #454545;" href="https://danielegirardi.github.io/posts/documents/PLFP_Oct2020.pdf" target="_blank" rel="noopener">Paper</a> - <a style="color: #454545;" href="https://danielegirardi.github.io/posts/documents/Slides_PLFP_Leeds.pdf" target="_blank" rel="noopener">Slides</a>]</li>
+ 	<li>"Partisanship and Local Fiscal Policy: Evidence from Brazilian Cities" (with Raphael Rocha Gouvea) <br/>
+    <em>Journal of Development Economics</em>, vol.150, May 2021 <br/>
+    [<a style="color: #454545;" href="https://doi.org/10.1016/j.jdeveco.2021.102637" target="_blank" rel="noopener">Paper</a> - <a style="color: #454545;"href="https://danielegirardi.github.io/posts/documents/PLFP_Oct2020.pdf" target="_blank" rel="noopener">Ungated</a> - <a style="color: #454545;" href="https://danielegirardi.github.io/posts/documents/Slides_PLFP_Leeds.pdf" target="_blank" rel="noopener">Slides</a> - <a style="color: #454545;" href="https://doi.org/10.7910/DVN/11BW20" target="_blank" rel="noopener">Replication files</a>]</li>
 </ul>
 
 <ul style="list-style-type: disc;">
