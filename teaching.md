@@ -30,5 +30,5 @@ Intermediate Macroeconomics (Undergraduate)</strong></h1>
 Econometrics (Undergraduate)</strong></h1>
 
 <ul style="list-style-type: disc;">
- 	<li><a style="color: #454545;" href="https://danielegirardi.github.io/posts/documents/Econ452_FA2021_First_Class_Slides.pdf" target="_blank" rel="noopener">Econometrics: An Introduction (Slides) </a><br/></li>
+ 	<li><a style="color: #454545;" href="https://danielegirardi.github.io/posts/documents/Econ452_FA2021_1_First_Class_Slides.pdf" target="_blank" rel="noopener">Econometrics: An Introduction (Slides) </a><br/></li>
 </ul>
