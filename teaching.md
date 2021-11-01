@@ -32,3 +32,11 @@ Econometrics (Undergraduate)</strong></h1>
 <ul style="list-style-type: disc;">
  	<li><a style="color: #454545;" href="https://danielegirardi.github.io/posts/documents/Econ452_FA2021_1_First_Class_Slides.pdf" target="_blank" rel="noopener">Econometrics: An Introduction (Slides) </a><br/></li>
 </ul>
+
+<ul style="list-style-type: disc;">
+ 	<li><a style="color: #454545;" href="https://danielegirardi.github.io/posts/documents/4_Linear_Regression_with_one_Regressor.pdf" target="_blank" rel="noopener">Linear Regression I: One Regressor (Slides) </a><br/></li>
+</ul>
+
+<ul style="list-style-type: disc;">
+ 	<li><a style="color: #454545;" href="https://danielegirardi.github.io/posts/documents/Econ452_FA2021_Sec5.pdf" target="_blank" rel="noopener">Linear Regression II: Multiple Regressors (Slides) </a><br/></li>
+</ul>
