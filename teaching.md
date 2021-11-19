@@ -44,3 +44,7 @@ Econometrics (Undergraduate)</strong></h1>
 <ul style="list-style-type: disc;">
  	<li><a style="color: #454545;" href="https://danielegirardi.github.io/posts/documents/Econ452_FA2021_8_Panel_data.pdf" target="_blank" rel="noopener">Regression with Panel Data (Slides) </a><br/></li>
 </ul>
+
+<ul style="list-style-type: disc;">
+ 	<li><a style="color: #454545;" href="https://danielegirardi.github.io/posts/documents/9_Instrumental_Variables.pdf" target="_blank" rel="noopener">Instrumental Variables (Slides) </a><br/></li>
+</ul>
