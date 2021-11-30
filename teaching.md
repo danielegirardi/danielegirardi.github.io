@@ -48,3 +48,7 @@ Econometrics (Undergraduate)</strong></h1>
 <ul style="list-style-type: disc;">
  	<li><a style="color: #454545;" href="https://danielegirardi.github.io/posts/documents/9_Instrumental_Variables.pdf" target="_blank" rel="noopener">Instrumental Variables (Slides) </a><br/></li>
 </ul>
+
+<ul style="list-style-type: disc;">
+ 	<li><a style="color: #454545;" href="https://danielegirardi.github.io/posts/documents/10_RCTs.pdf" target="_blank" rel="noopener">Randomized Control Trials (Slides) </a><br/></li>
+</ul>
