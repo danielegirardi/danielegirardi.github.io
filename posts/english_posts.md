@@ -6,8 +6,8 @@ permalink: /english_posts/
 
 <style type="text/css">a {text-decoration: none; color: inherit}</style>
 
-<span style="color: #1008F4;"><strong><a href="https://www.washingtonpost.com/politics/2022/01/24/chiles-markets-fell-after-people-elected-leftist-president-thats-not-unusual/" target="_blank" rel="noopener">Chile’s markets fell after people elected a leftist president. That’s not unusual.</a></strong></span> (Jan 24, 2022)<br>
-<em> Published on the Washington Post/The Monkey Cage</em><br>
+<span style="color: #1008F4;"><strong><a href="https://www.washingtonpost.com/politics/2022/01/24/chiles-markets-fell-after-people-elected-leftist-president-thats-not-unusual/" target="_blank" rel="noopener">Chile’s markets fell after people elected a leftist president. That’s not unusual.</a></strong></span> (Jan 24, 2022)<br><br>
+<em> Published on the Washington Post/The Monkey Cage</em><br><br>
 <em>Financial markets did not offer a warm welcome to Gabriel Boric, Chile’s newly elected leftist president. I discuss this, what it means, and what are the implications for democratic politics, based on my research on the politics of financial markets. </em>
 
 <span style="color: #1008F4;"><strong><a href="https://danielegirardi.github.io/posts/may2018post" target="_blank" rel="noopener">Italy's institutional crisis, the Euro and the Left</a></strong></span> (May 29, 2018)
@@ -15,6 +15,6 @@ permalink: /english_posts/
 
 <span style="color: #1008F4;"><strong><a href="https://www.ineteconomics.org/perspectives/blog/when-demand-shapes-supply" target="_blank" rel="noopener">When demand shapes supply </a></strong></span> (Feb 11, 2018. With Walter Paternesi Meloni and Antonella Stirati)
 
-<em> Published on the Institute for New Economic Thinking (INET) blog</em><br>
+<br><br><em> Published on the Institute for New Economic Thinking (INET) blog</em><br><br>
 
 <em>Contrary to the neoclassical model’s assumptions, shifts in aggregate demand have persistent effects on GDP. This post - published on the Institute for New Economic Thinking Blog - summarizes some of our research on the topic.</em>
