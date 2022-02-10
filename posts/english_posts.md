@@ -6,7 +6,7 @@ permalink: /english_posts/
 
 <style type="text/css">a {text-decoration: none; color: inherit}</style>
 
-<span style="color: #1008F4;"><strong><a href="https://faculti.net/partisan-shocks-and-financial-markets-evidence-from-close-national-elections/" target="_blank" rel="noopener">Video interview on politics and financial markets.</a></strong></span> (Published on <b>The Washington Post</b> on Jan 24, 2022)<br>
+<span style="color: #1008F4;"><strong><a href="https://faculti.net/partisan-shocks-and-financial-markets-evidence-from-close-national-elections/" target="_blank" rel="noopener">Video interview on politics and financial markets.</a></strong></span> (Faculty, Feb 10, 2022)<br>
 <em>In this short interview I talk about my research on the politics of financial markets: how I documented the effect of left-wing vs conservative victories on stock values, and what it teaches us about democracy & capitalism. </em>
 
 <span style="color: #1008F4;"><strong><a href="https://www.washingtonpost.com/politics/2022/01/24/chiles-markets-fell-after-people-elected-leftist-president-thats-not-unusual/" target="_blank" rel="noopener">Chile’s markets fell after people elected a leftist president. That’s not unusual.</a></strong></span> (Published on <b>The Washington Post</b> on Jan 24, 2022)<br>
