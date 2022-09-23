@@ -23,6 +23,10 @@ Macroeconomic Theory 1 (Graduate)</strong></h1>
 Intermediate Macroeconomics (Undergraduate)</strong></h1>
 
 <ul style="list-style-type: disc;">
+ 	<li><a style="color: #454545;" href="https://danielegirardi.github.io/posts/documents/ECON204_FA2022_Sec2.pdf" target="_blank" rel="noopener">Output, aggregate demand and the multiplier (Slides) </a><br/></li>
+</ul>
+
+<ul style="list-style-type: disc;">
  	<li><a style="color: #454545;" href="https://danielegirardi.github.io/posts/documents/ECON204_FA2019_Monetary_System_Slides.pdf" target="_blank" rel="noopener">The monetary system and financial markets in a modern economy (Slides) </a><br/></li>
 </ul>
 
