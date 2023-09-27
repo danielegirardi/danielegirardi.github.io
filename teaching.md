@@ -8,7 +8,15 @@ permalink: /teaching/
 Macroeconomic Theory 1 (Graduate)</strong></h1>
 
 <ul style="list-style-type: disc;">
+ 	<li><a style="color: #454545;" href="https://danielegirardi.github.io/posts/documents/7SSPP402_2023_Slides_Introduction.pdf" target="_blank" rel="noopener"> Introduction: Macroeconomic facts, and a brief stylized history of Macroeconomics (Slides)</a><br/></li>
+</ul>
+
+<ul style="list-style-type: disc;">
  	<li><a style="color: #454545;" href="https://danielegirardi.github.io/posts/documents/Harrod_Domar.pdf" target="_blank" rel="noopener">The Harrod-Domar model (Lecture Notes)</a><br/></li>
+</ul>
+
+<ul style="list-style-type: disc;">
+ 	<li><a style="color: #454545;" href="https://danielegirardi.github.io/posts/documents/7SSPP402_2023_Slides_Sec2_Harrod.pdf" target="_blank" rel="noopener">The Harrod-Domar model (Slides)</a><br/></li>
 </ul>
 
 <ul style="list-style-type: disc;">
