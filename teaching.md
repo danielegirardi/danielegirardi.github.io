@@ -31,11 +31,43 @@ Macroeconomic Theory 1 (Graduate)</strong></h1>
 Intermediate Macroeconomics (Undergraduate)</strong></h1>
 
 <ul style="list-style-type: disc;">
+ 	<li><a style="color: #454545;" href="https://danielegirardi.github.io/posts/documents/ECON204_FA2022_first_class.pdf" target="_blank" rel="noopener">Introduction to Intermediate Macroeconomics (Slides) </a><br/></li>
+</ul>
+
+<ul style="list-style-type: disc;">
  	<li><a style="color: #454545;" href="https://danielegirardi.github.io/posts/documents/ECON204_FA2022_Sec2.pdf" target="_blank" rel="noopener">Output, aggregate demand and the multiplier (Slides) </a><br/></li>
 </ul>
 
 <ul style="list-style-type: disc;">
- 	<li><a style="color: #454545;" href="https://danielegirardi.github.io/posts/documents/ECON204_FA2019_Monetary_System_Slides.pdf" target="_blank" rel="noopener">The monetary system and financial markets in a modern economy (Slides) </a><br/></li>
+ 	<li><a style="color: #454545;" href="https://danielegirardi.github.io/posts/documents/ECON204_FA2022_Sec3.pdf" target="_blank" rel="noopener">The monetary system and financial markets in a modern economy (Slides) </a><br/></li>
+</ul>
+
+<ul style="list-style-type: disc;">
+ 	<li><a style="color: #454545;" href="https://danielegirardi.github.io/posts/documents/ECON204_FA2022_Sec4.pdf" target="_blank" rel="noopener">The IS-LM Model (Slides) </a><br/></li>
+</ul>
+
+<ul style="list-style-type: disc;">
+ 	<li><a style="color: #454545;" href="https://danielegirardi.github.io/posts/documents/ECON204_FA2022_Sec5.pdf" target="_blank" rel="noopener">The Labor Market (Slides) </a><br/></li>
+</ul>
+
+<ul style="list-style-type: disc;">
+ 	<li><a style="color: #454545;" href="https://danielegirardi.github.io/posts/documents/ECON204_FA2022_Sec6.pdf" target="_blank" rel="noopener">Inflation and the Phillips Curve (Slides) </a><br/></li>
+</ul>
+
+<ul style="list-style-type: disc;">
+ 	<li><a style="color: #454545;" href="https://danielegirardi.github.io/posts/documents/ECON204_FA2022_Sec7.pdf" target="_blank" rel="noopener">The IS-LM-PC Model (Slides) </a><br/></li>
+</ul>
+
+<ul style="list-style-type: disc;">
+ 	<li><a style="color: #454545;" href="https://danielegirardi.github.io/posts/documents/ECON204_FA2022_Sec8.pdf" target="_blank" rel="noopener">The Open Economy: Introduction (Slides) </a><br/></li>
+</ul>
+
+<ul style="list-style-type: disc;">
+ 	<li><a style="color: #454545;" href="https://danielegirardi.github.io/posts/documents/ECON204_FA2022_Sec9.pdf" target="_blank" rel="noopener">The Open Economy: Output, Demand and the Trade Balance (Slides) </a><br/></li>
+</ul>
+
+<ul style="list-style-type: disc;">
+ 	<li><a style="color: #454545;" href="https://danielegirardi.github.io/posts/documents/ECON204_FA2022_Sec10.pdf" target="_blank" rel="noopener">The Open Economy: Output, the Interest Rate and the Exchange Rate; Exchange Rate Regimes (Slides) </a><br/></li>
 </ul>
 
 <h1><strong style="font-size: 1.5rem;">
