@@ -35,6 +35,10 @@ Intermediate Macroeconomics (Undergraduate)</strong></h1>
 </ul>
 
 <ul style="list-style-type: disc;">
+ 	<li><a style="color: #454545;" href="https://danielegirardi.github.io/posts/documents/ECON204_FA2022_Sec1.pdf" target="_blank" rel="noopener">Definitions (Slides) </a><br/></li>
+</ul>
+
+<ul style="list-style-type: disc;">
  	<li><a style="color: #454545;" href="https://danielegirardi.github.io/posts/documents/ECON204_FA2022_Sec2.pdf" target="_blank" rel="noopener">Output, aggregate demand and the multiplier (Slides) </a><br/></li>
 </ul>
 
