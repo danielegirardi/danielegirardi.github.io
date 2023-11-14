@@ -5,7 +5,7 @@ permalink: /teaching/
 ---
     
 <h1><strong style="font-size: 1.5rem;">
-Macroeconomic Theory 1 (Graduate)</strong></h1>
+Advanced Macroeconomics/Macroeconomic Theory 1 (Graduate)</strong></h1>
 
 <ul style="list-style-type: disc;">
  	<li><a style="color: #454545;" href="https://danielegirardi.github.io/posts/documents/7SSPP402_2023_Slides_Introduction.pdf" target="_blank" rel="noopener"> Introduction: Macroeconomic facts, and a brief stylized history of Macroeconomics (Slides)</a><br/></li>
@@ -20,7 +20,19 @@ Macroeconomic Theory 1 (Graduate)</strong></h1>
 </ul>
 
 <ul style="list-style-type: disc;">
- 	<li><a style="color: #454545;" href="https://danielegirardi.github.io/posts/documents/Econ705_SP21_Slides_Fundamental_Causes.pdf" target="_blank" rel="noopener">Fundamental Causes of Growth (Slides)</a><br/></li>
+ 	<li><a style="color: #454545;" href="https://danielegirardi.github.io/posts/documents/7SSPP402_2023_Slides_Solow.pdf" target="_blank" rel="noopener">The Solow Model (Slides)</a><br/></li>
+</ul>
+
+<ul style="list-style-type: disc;">
+ 	<li><a style="color: #454545;" href="https://danielegirardi.github.io/posts/documents/7SSPP402_2023_Slides_third_class.pdf" target="_blank" rel="noopener">Ramsey and OLG models (Slides)</a><br/></li>
+</ul>
+
+<ul style="list-style-type: disc;">
+ 	<li><a style="color: #454545;" href="https://danielegirardi.github.io/posts/documents/7SSPP402_2023_Slides_EGT.pdf" target="_blank" rel="noopener">Endogenous Growth Theory (Slides)</a><br/></li>
+</ul>
+
+<ul style="list-style-type: disc;">
+ 	<li><a style="color: #454545;" href="https://danielegirardi.github.io/posts/documents/7SSPP402_2023_Slides_FundamentalCauses.pdf" target="_blank" rel="noopener">Fundamental Causes of Growth (Slides)</a><br/></li>
 </ul>
 
 <ul style="list-style-type: disc;">
