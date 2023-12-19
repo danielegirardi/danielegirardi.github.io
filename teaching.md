@@ -5,7 +5,7 @@ permalink: /teaching/
 ---
     
 <h1><strong style="font-size: 1.5rem;">
-Advanced Macroeconomics/Macroeconomic Theory 1 (Graduate)</strong></h1>
+Advanced Macroeconomics (Graduate)</strong></h1>
 
 <ul style="list-style-type: disc;">
  	<li><a style="color: #454545;" href="https://danielegirardi.github.io/posts/documents/7SSPP402_2023_Slides_Introduction.pdf" target="_blank" rel="noopener"> Introduction: Macroeconomic facts, and a brief stylized history of Macroeconomics (Slides)</a><br/></li>
@@ -98,11 +98,11 @@ Econometrics (Undergraduate)</strong></h1>
 </ul>
 
 <ul style="list-style-type: disc;">
- 	<li><a style="color: #454545;" href="https://danielegirardi.github.io/posts/documents/Econ452_FA2021_Sec5.pdf" target="_blank" rel="noopener">Linear Regression II: Multiple Regressors (Slides) </a><br/></li>
+ 	<li><a style="color: #454545;" href="https://danielegirardi.github.io/posts/documents/Econ452_FA2022_Sec5.pdf" target="_blank" rel="noopener">Linear Regression II: Multiple Regressors (Slides) </a><br/></li>
 </ul>
 
 <ul style="list-style-type: disc;">
- 	<li><a style="color: #454545;" href="https://danielegirardi.github.io/posts/documents/Econ452_FA2021_8_Panel_data.pdf" target="_blank" rel="noopener">Regression with Panel Data (Slides) </a><br/></li>
+ 	<li><a style="color: #454545;" href="https://danielegirardi.github.io/posts/documents/Econ452_FA2022_8_Panel_data.pdf" target="_blank" rel="noopener">Regression with Panel Data (Slides) </a><br/></li>
 </ul>
 
 <ul style="list-style-type: disc;">
