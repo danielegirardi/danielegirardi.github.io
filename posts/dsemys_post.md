@@ -39,12 +39,17 @@
 
 
 
-
+<p>
 According to a widely shared concern, some college professors may exert a controversial influence on the preferences and political opinions of their students. To your possible surprise, I’m talking about economics professors, including (in fact, especially) the most conventional ones. 
+</p>
 
+<p>
 Researchers studying human behaviour have hypothesized that studying economics might have the unintended effect of reducing generosity and prosocial, cooperative behaviour among students. Moreover, studying economics might push students to the right politically. 
+</p>
 
+<p>
 There are good reasons - both theoretical and empirical - to entertain the hypothesis that studying economics might make you more selfish and politically conservative. 
+</p>
 
 First, consider the “selfishness” part of the hypothesis. College students attending an economics course are sure to encounter a strange and pretty unlikeable type of human being, who only cares about their own personal interest and is completely indifferent to the fate of others. No, I don’t mean the professor! I’m talking about Homo Economicus: the type of human being that populates the formal models found in economics textbooks. 
 
