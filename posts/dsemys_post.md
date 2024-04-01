@@ -33,7 +33,7 @@
 <div class="column">
 <span style="font-size: larger;">
 <p>Daniele Girardi</p>
-<p>(May 29, 2018)</p>
+<p>(Feb 2, 2024; Spanish version published on Nada es Gratis)</p>
 </span>
 
 
