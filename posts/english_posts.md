@@ -6,6 +6,9 @@ permalink: /english_posts/
 
 <style type="text/css">a {text-decoration: none; color: inherit}</style>
 
+<span style="color: #1008F4;"><strong><a href="https://danielegirardi.github.io/posts/dsemys_post" target="_blank" rel="noopener">Does studying economics make you selfish and conservative? A new study casts some doubts on a popular hypothesis?</a></strong></span> (Spanish version publised on Feb 1, 2024 in Nada es Gratis)<br>
+<em>English version of a blog post published in Spanish by <a href="https://nadaesgratis.es/admin/estudiar-economia-te-hace-egoista-y-conservador" target="_blank" rel="noopener">Nada es Gratis</a>. I summarize my research (coauthored with Sai Madhurika Mamunuru, Simon Halliday and Sam Bowles) on the effect of studying economics on students' preferences and political opinions. </em>
+
 <span style="color: #1008F4;"><strong><a href="https://faculti.net/partisan-shocks-and-financial-markets-evidence-from-close-national-elections/" target="_blank" rel="noopener">Video interview on politics and financial markets.</a></strong></span> (Faculti, Feb 10, 2022)<br>
 <em>In this short interview I talk about my research on the politics of financial markets: how I documented the effect of left-wing vs conservative victories on stock values, and what it teaches us about democracy & capitalism. </em>
 
