@@ -33,7 +33,7 @@
 <div class="column">
 <span style="font-size: larger;">
 <p>Daniele Girardi</p>
-<p>(Feb 2, 2024; Spanish version published on Nada es Gratis)</p>
+<p>(Feb 2, 2024; Spanish version published on <a href="https://nadaesgratis.es/admin/estudiar-economia-te-hace-egoista-y-conservador" target="_blank" rel="noopener">Nada es Gratis</a>)</p>
 </span>
 
 
