@@ -3,6 +3,21 @@ layout: page
 title: Teaching
 permalink: /teaching/
 ---
+
+<h1><strong style="font-size: 1.5rem;">
+Managing the UK Economy: Fiscal and Monetary Policy since 1945 </strong></h1>
+
+<ul style="list-style-type: disc;">
+ 	<li><a style="color: #454545;" href="https://danielegirardi.github.io/posts/uk_macropolicy/7SSPN231_Week1_FiscalPolicy.pdf" target="_blank" rel="noopener"> Week 1 - Fiscal policy and its impact on the economy (an introduction) (Slides)</a><br/></li>
+</ul>
+
+<ul style="list-style-type: disc;">
+ 	<li><a style="color: #454545;" href="https://danielegirardi.github.io/posts/uk_macropolicy/monetary_policy_lecture_notes.pdf" target="_blank" rel="noopener"> Week 2 - The financial system and monetary policy (an introduction) (Lecture Notes)</a><br/></li>
+</ul>
+
+<ul style="list-style-type: disc;">
+ 	<li><a style="color: #454545;" href="https://danielegirardi.github.io/posts/uk_macropolicy/7SSPN231_Week2_MonetaryPolicy.pdf" target="_blank" rel="noopener"> Week 2 - The financial system and monetary policy (an introduction) (Slides)</a><br/></li>
+</ul>
     
 <h1><strong style="font-size: 1.5rem;">
 Advanced Macroeconomics (Graduate)</strong></h1>
