@@ -18,6 +18,18 @@ Managing the UK Economy: Fiscal and Monetary Policy since 1945 </strong></h1>
 <ul style="list-style-type: disc;">
  	<li><a style="color: #454545;" href="https://danielegirardi.github.io/posts/uk_macropolicy/7SSPN231_Week2_MonetaryPolicy.pdf" target="_blank" rel="noopener"> Week 2 - The financial system and monetary policy (an introduction) (Slides)</a><br/></li>
 </ul>
+
+<ul style="list-style-type: disc;">
+ 	<li><a style="color: #454545;" href="https://danielegirardi.github.io/posts/uk_macropolicy/Lecture_notes_1945-51.pdf" target="_blank" rel="noopener"> Week 4 - 1945–51: Fiscal and monetary policy during the post-war Labour governments. (Lecture Notes)</a><br/></li>
+</ul>
+
+<ul style="list-style-type: disc;">
+ 	<li><a style="color: #454545;" href="https://danielegirardi.github.io/posts/uk_macropolicy/7SSPN231_Week4_1945-51.pdf" target="_blank" rel="noopener"> Week 4 - 1945–51: Fiscal and monetary policy during the post-war Labour governments. (Slides)</a><br/></li>
+</ul>
+
+<ul style="list-style-type: disc;">
+ 	<li><a style="color: #454545;" href="https://danielegirardi.github.io/posts/uk_macropolicy/7SSPN231_Week5_1952-67.pdf" target="_blank" rel="noopener"> Week 5 - 1952-67: Fiscal activism and macroeconomic ‘fine-tuning’ (Slides)</a><br/></li>
+</ul>
     
 <h1><strong style="font-size: 1.5rem;">
 Advanced Macroeconomics (Graduate)</strong></h1>
