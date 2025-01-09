@@ -87,6 +87,26 @@ Advanced Macroeconomics (Graduate)</strong></h1>
 </ul>
 
 <ul style="list-style-type: disc;">
+ 	<li><a style="color: #454545;" href="https://danielegirardi.github.io/posts/adv_macro/Slides_RBC.pdf" target="_blank" rel="noopener">Real Business Cycle theory (Slides)</a><br/></li>
+</ul>
+
+<ul style="list-style-type: disc;">
+ 	<li><a style="color: #454545;" href="https://danielegirardi.github.io/posts/adv_macro/Slides_NK_all.pdf" target="_blank" rel="noopener">Keynesian and New Keynesian theories (Slides)</a><br/></li>
+</ul>
+
+<ul style="list-style-type: disc;">
+ 	<li><a style="color: #454545;" href="https://danielegirardi.github.io/posts/adv_macro/Slides_finance_part1.pdf" target="_blank" rel="noopener">Financial markets I: Introduction (Slides)</a><br/></li>
+</ul>
+
+<ul style="list-style-type: disc;">
+ 	<li><a style="color: #454545;" href="https://danielegirardi.github.io/posts/adv_macro/Slides_finance_part2.pdf" target="_blank" rel="noopener">Financial markets II: The Diamond-Dybvig model (Slides)</a><br/></li>
+</ul>
+
+<ul style="list-style-type: disc;">
+ 	<li><a style="color: #454545;" href="https://danielegirardi.github.io/posts/adv_macro/Slides_labor_market.pdf" target="_blank" rel="noopener">Labor market (Slides)</a><br/></li>
+</ul>
+
+<ul style="list-style-type: disc;">
  	<li><a style="color: #454545;" href="https://danielegirardi.github.io/posts/documents/Econ705_SP21_Slides_Section_7.pdf" target="_blank" rel="noopener">Evidence-based Macroeconomics (Slides)</a><br/></li>
 </ul>
 
