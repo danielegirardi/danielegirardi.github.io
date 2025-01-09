@@ -20,6 +20,10 @@ Managing the UK Economy: Fiscal and Monetary Policy since 1945 </strong></h1>
 </ul>
 
 <ul style="list-style-type: disc;">
+ 	<li><a style="color: #454545;" href="https://danielegirardi.github.io/posts/uk_macropolicy/7SSPN231_Week3_seminar.pdf" target="_blank" rel="noopener"> Week 3 - The UK as an open economy (Slides)</a><br/></li>
+</ul>
+
+<ul style="list-style-type: disc;">
  	<li><a style="color: #454545;" href="https://danielegirardi.github.io/posts/uk_macropolicy/Lecture_notes_1945-51.pdf" target="_blank" rel="noopener"> Week 4 - 1945–51: Fiscal and monetary policy during the post-war Labour governments. (Lecture Notes)</a><br/></li>
 </ul>
 
@@ -29,6 +33,26 @@ Managing the UK Economy: Fiscal and Monetary Policy since 1945 </strong></h1>
 
 <ul style="list-style-type: disc;">
  	<li><a style="color: #454545;" href="https://danielegirardi.github.io/posts/uk_macropolicy/7SSPN231_Week5_1952-67.pdf" target="_blank" rel="noopener"> Week 5 - 1952-67: Fiscal activism and macroeconomic ‘fine-tuning’ (Slides)</a><br/></li>
+</ul>
+
+<ul style="list-style-type: disc;">
+ 	<li><a style="color: #454545;" href="https://danielegirardi.github.io/posts/uk_macropolicy/7SSPN231_Week6_1968-79.pdf" target="_blank" rel="noopener"> Week 6 - 1968-79: Inflation and the crisis of the post-war settlement (Slides)</a><br/></li>
+</ul>
+
+<ul style="list-style-type: disc;">
+ 	<li><a style="color: #454545;" href="https://danielegirardi.github.io/posts/uk_macropolicy/7SSPN231_Week7_1979-96.pdf" target="_blank" rel="noopener"> Week 7 - 1979-96: Thatcherism and turn toward markets (Slides)</a><br/></li>
+</ul>
+
+<ul style="list-style-type: disc;">
+ 	<li><a style="color: #454545;" href="https://danielegirardi.github.io/posts/uk_macropolicy/7SSPN231_Week8_1997-07.pdf" target="_blank" rel="noopener"> Week 8 - 1997-07: The independent Central Bank, the New Labour governments, and the ‘Great Moderation’ (Slides)</a><br/></li>
+</ul>
+
+<ul style="list-style-type: disc;">
+ 	<li><a style="color: #454545;" href="https://danielegirardi.github.io/posts/uk_macropolicy/7SSPN231_Week9_2008-19.pdf" target="_blank" rel="noopener"> Week 9 - Great Recession, unconventional monetary policy, and austerity (Slides)</a><br/></li>
+</ul>
+
+<ul style="list-style-type: disc;">
+ 	<li><a style="color: #454545;" href="https://danielegirardi.github.io/posts/uk_macropolicy/7SSPN231_Week10_2020-24.pdf" target="_blank" rel="noopener"> Week 10 -  2020s: Covid, Brexit, and the return of inflation. (Slides)</a><br/></li>
 </ul>
     
 <h1><strong style="font-size: 1.5rem;">
