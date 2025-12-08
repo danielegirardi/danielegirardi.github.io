@@ -52,7 +52,7 @@ Managing the UK Economy: Fiscal and Monetary Policy since 1945 </strong></h1>
 </ul>
 
 <ul style="list-style-type: disc;">
- 	<li><a style="color: #454545;" href="https://danielegirardi.github.io/posts/uk_macropolicy/7SSPN231_Week10_2020-24.pdf" target="_blank" rel="noopener"> Week 10 -  2020s: Covid, Brexit, and the return of inflation. (Slides)</a><br/></li>
+ 	<li><a style="color: #454545;" href="https://danielegirardi.github.io/posts/uk_macropolicy/7SSPN231_Week10_2020-25.pdf" target="_blank" rel="noopener"> Week 10 -  2020-2025: Covid, Brexit, and the return of inflation. (Slides)</a><br/></li>
 </ul>
     
 <h1><strong style="font-size: 1.5rem;">
