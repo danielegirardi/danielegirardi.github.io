@@ -59,31 +59,35 @@ Managing the UK Economy: Fiscal and Monetary Policy since 1945 </strong></h1>
 Advanced Macroeconomics (Graduate)</strong></h1>
 
 <ul style="list-style-type: disc;">
- 	<li><a style="color: #454545;" href="https://danielegirardi.github.io/posts/documents/7SSPP402_2023_Slides_Introduction.pdf" target="_blank" rel="noopener"> Introduction: Macroeconomic facts, and a brief stylized history of Macroeconomics (Slides)</a><br/></li>
+ 	<li><a style="color: #454545;" href="https://danielegirardi.github.io/posts/adv_macro/Slides_Introduction.pdf" target="_blank" rel="noopener"> Introduction: Macroeconomic facts, and a brief stylized history of Macroeconomics (Slides)</a><br/></li>
 </ul>
 
 <ul style="list-style-type: disc;">
- 	<li><a style="color: #454545;" href="https://danielegirardi.github.io/posts/documents/Harrod_Domar.pdf" target="_blank" rel="noopener">The Harrod-Domar model (Lecture Notes)</a><br/></li>
+ 	<li><a style="color: #454545;" href="https://danielegirardi.github.io/posts/adv_macro/Economic_growth_lecture_notes.pdf" target="_blank" rel="noopener">Introduction to Economic Growth (Lecture Notes)</a><br/></li>
 </ul>
 
 <ul style="list-style-type: disc;">
- 	<li><a style="color: #454545;" href="https://danielegirardi.github.io/posts/documents/7SSPP402_2023_Slides_Sec2_Harrod.pdf" target="_blank" rel="noopener">The Harrod-Domar model (Slides)</a><br/></li>
+ 	<li><a style="color: #454545;" href="https://danielegirardi.github.io/posts/adv_macro/Harrod_Domar_Sep2023.pdf" target="_blank" rel="noopener">The Harrod-Domar model (Lecture Notes)</a><br/></li>
 </ul>
 
 <ul style="list-style-type: disc;">
- 	<li><a style="color: #454545;" href="https://danielegirardi.github.io/posts/documents/7SSPP402_2023_Slides_Solow.pdf" target="_blank" rel="noopener">The Solow Model (Slides)</a><br/></li>
+ 	<li><a style="color: #454545;" href="https://danielegirardi.github.io/posts/adv_macro/Slides_harrod.pdf" target="_blank" rel="noopener">The Harrod-Domar model (Slides)</a><br/></li>
 </ul>
 
 <ul style="list-style-type: disc;">
- 	<li><a style="color: #454545;" href="https://danielegirardi.github.io/posts/documents/7SSPP402_2023_Slides_third_class.pdf" target="_blank" rel="noopener">Ramsey and OLG models (Slides)</a><br/></li>
+ 	<li><a style="color: #454545;" href="https://danielegirardi.github.io/posts/adv_macro/Slides_Solow.pdf" target="_blank" rel="noopener">The Solow Model (Slides)</a><br/></li>
 </ul>
 
 <ul style="list-style-type: disc;">
- 	<li><a style="color: #454545;" href="https://danielegirardi.github.io/posts/documents/7SSPP402_2023_Slides_EGT.pdf" target="_blank" rel="noopener">Endogenous Growth Theory (Slides)</a><br/></li>
+ 	<li><a style="color: #454545;" href="https://danielegirardi.github.io/posts/adv_macro/Slides_Ramsey_OLG.pdf" target="_blank" rel="noopener">Ramsey and OLG models (Slides)</a><br/></li>
 </ul>
 
 <ul style="list-style-type: disc;">
- 	<li><a style="color: #454545;" href="https://danielegirardi.github.io/posts/documents/7SSPP402_2023_Slides_FundamentalCauses.pdf" target="_blank" rel="noopener">Fundamental Causes of Growth (Slides)</a><br/></li>
+ 	<li><a style="color: #454545;" href="https://danielegirardi.github.io/posts/adv_macro/Slides_EGT.pdf" target="_blank" rel="noopener">Endogenous Growth Theory (Slides)</a><br/></li>
+</ul>
+
+<ul style="list-style-type: disc;">
+ 	<li><a style="color: #454545;" href="https://danielegirardi.github.io/posts/adv_macro/Adv_Macro_Fundamental_causes_slides.pdf" target="_blank" rel="noopener">Fundamental Causes of Growth (Slides)</a><br/></li>
 </ul>
 
 <ul style="list-style-type: disc;">
