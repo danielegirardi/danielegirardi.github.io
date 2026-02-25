@@ -6,6 +6,9 @@ permalink: /english_posts/
 
 <style type="text/css">a {text-decoration: none; color: inherit}</style>
 
+<span style="color: #1008F4;"><strong><a href="https://danielegirardi.github.io/posts/Girardi_inclusive_growth_memo_2024.pdf" target="_blank" rel="noopener">Inclusive growth in post-pandemic USA and its lessons</a></strong></span> (Memo presented at the Yale workshop on democracy and inclusive growth, April 2024)<br>
+<em>What policies and political dynamics can make Western mature economies more inclusive? The post-pandemic US economy might offer important insights. </em>
+
 <span style="color: #1008F4;"><strong><a href="https://danielegirardi.github.io/posts/dsemys_post" target="_blank" rel="noopener">Does studying economics make you selfish and conservative? A new study casts some doubts on a popular hypothesis</a></strong></span> (Spanish version publised on Feb 1, 2024 in <a href="https://nadaesgratis.es/admin/estudiar-economia-te-hace-egoista-y-conservador" target="_blank" rel="noopener">Nada es Gratis</a>)<br>
 <em>I summarize my research (coauthored with Sai Madhurika Mamunuru, Simon Halliday and Sam Bowles) on the effect of studying economics on students' preferences and political opinions. </em>
 
