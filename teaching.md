@@ -191,3 +191,26 @@ Econometrics (Undergraduate)</strong></h1>
 <ul style="list-style-type: disc;">
  	<li><a style="color: #454545;" href="https://danielegirardi.github.io/posts/documents/11_DiD.pdf" target="_blank" rel="noopener">Difference-in-Differences (Slides) </a><br/></li>
 </ul>
+
+<h1><strong style="font-size: 1.5rem;">
+Institutions, Trade and Economic growth (Undergraduate summer school)</strong></h1>
+
+<ul style="list-style-type: disc;">
+ 	<li><a style="color: #454545;" href="https://danielegirardi.github.io/posts/summer_school/SummerModule_Day1_Growth.pdf" target="_blank" rel="noopener"> Day 1 - Economic growth (Slides)</a><br/></li>
+</ul>
+
+<ul style="list-style-type: disc;">
+ 	<li><a style="color: #454545;" href="https://danielegirardi.github.io/posts/summer_school/SummerModule_Day2-3_Coordination_Problems_and_Institutions.pdf" target="_blank" rel="noopener"> Days 2-3 - Coordination Problems and Institutions (Slides)</a><br/></li>
+</ul>
+
+<ul style="list-style-type: disc;">
+ 	<li><a style="color: #454545;" href="https://danielegirardi.github.io/posts/summer_school/SummerModule_Day4_fiscalpolicy.pdf" target="_blank" rel="noopener"> Day 4 - The government and the economy (Slides)</a><br/></li>
+</ul>
+
+<ul style="list-style-type: disc;">
+ 	<li><a style="color: #454545;" href="https://danielegirardi.github.io/posts/summer_school/SummerModule_Day5_monetarypolicy.pdf" target="_blank" rel="noopener"> Day 5 - Monetary and financial institutions (Slides)</a><br/></li>
+</ul>
+
+<ul style="list-style-type: disc;">
+ 	<li><a style="color: #454545;" href="https://danielegirardi.github.io/posts/summer_school/SummerModule_Days6-7_Institutions.pdf" target="_blank" rel="noopener"> Days 6-7 - Days 6-7: Fundamental causes of economic growth- Institutions, geography, culture and history (Slides)</a><br/></li>
+</ul>
